@@ -222,23 +222,26 @@ A tabela a seguir apresenta o mapeamento dos requisitos informacionais e funcion
 
 2.4.3  Justificativa dos KPIs
 
-<p align="justify">
-<strong>Eficiência Operacional:</strong> tempo médio de atendimento por etapa do processo e taxa de cumprimento de prazos permitem identificar gargalos, otimizar fluxos e reduzir riscos jurídicos.</p>
-
-<p align="justify">
-<strong>Gestão de Equipe:</strong> número de processos ativos por advogado garante equilíbrio na distribuição da carga de trabalho e melhora a alocação de recursos.</p>
-
-<p align="justify">
-<strong>Gestão Processual:</strong> percentual de processos por fase fornece transparência sobre o andamento dos casos, permitindo priorizar atividades críticas.</p>
-
-<p align="justify">
-<strong>Sustentabilidade Financeira:</strong> receita por tipo de contrato orienta decisões estratégicas sobre foco comercial e rentabilidade de serviços.</p>
-
-<p align="justify">
-<strong>Impacto da Tecnologia:</strong> produtividade administrativa mede diretamente o valor agregado pela solução ao reduzir tarefas manuais.</p>
-
-<p align="justify">
-<strong>Resultados Estratégicos:</strong> taxa de sucesso processual fornece visão clara sobre desempenho jurídico e fortalece a reputação do escritório.</p>
+<ul>
+  <li style="text-align: justify;">
+    <strong>Eficiência Operacional:</strong> tempo médio de atendimento por etapa do processo e taxa de cumprimento de prazos permitem identificar gargalos, otimizar fluxos e reduzir riscos jurídicos.
+  </li>
+  <li style="text-align: justify;">
+    <strong>Gestão de Equipe:</strong> número de processos ativos por advogado garante equilíbrio na distribuição da carga de trabalho e melhora a alocação de recursos.
+  </li>
+  <li style="text-align: justify;">
+    <strong>Gestão Processual:</strong> percentual de processos por fase fornece transparência sobre o andamento dos casos, permitindo priorizar atividades críticas.
+  </li>
+  <li style="text-align: justify;">
+    <strong>Sustentabilidade Financeira:</strong> receita por tipo de contrato orienta decisões estratégicas sobre foco comercial e rentabilidade de serviços.
+  </li>
+  <li style="text-align: justify;">
+    <strong>Impacto da Tecnologia:</strong> produtividade administrativa mede diretamente o valor agregado pela solução ao reduzir tarefas manuais.
+  </li>
+  <li style="text-align: justify;">
+    <strong>Resultados Estratégicos:</strong> taxa de sucesso processual fornece visão clara sobre desempenho jurídico e fortalece a reputação do escritório.
+  </li>
+</ul>
 
 ## 2.5. Planejamento da Coleta e Governança de Dados
 
@@ -247,17 +250,259 @@ Esta etapa inicial visa estabelecer diretrizes para a coleta, análise e armazen
 
 2.5.1 Fontes de Dados
 
-<p align="justify">
-<strong>Entrevistas Qualitativas:</strong> Levantamento de fluxos de trabalho e rotinas administrativas por meio de entrevistas estruturadas com a proprietária do escritório.</p>
+<ul>
+  <li style="text-align: justify;">
+    <strong>Entrevistas Qualitativas:</strong> Levantamento de fluxos de trabalho e rotinas administrativas por meio de entrevistas estruturadas com a proprietária do escritório.
+  </li>
+  <li style="text-align: justify;">
+    <strong>Formulários Estruturados:</strong> Instrumentos padronizados para cadastro de clientes, processos e contratos, favorecendo a uniformização da base de dados.
+  </li>
+  <li style="text-align: justify;">
+    <strong>Acervo Documental:</strong> Revisão sistemática de contratos digitais, petições e procurações, com a finalidade de identificar padrões recorrentes, cláusulas críticas e informações essenciais.
+  </li>
+  <li style="text-align: justify;">
+    <strong>Pesquisa de Mercado:</strong> Benchmarking de softwares jurídicos e análise comparativa de soluções concorrentes para avaliar tendências e melhores práticas do setor.
+  </li>
+  <li style="text-align: justify;">
+    <strong>Análise Normativa:</strong> Monitoramento contínuo da <strong>LGPD</strong>, do <strong>Código de Ética da OAB</strong> e da <strong>ISO 27001</strong>, garantindo aderência a requisitos legais e normativos.
+  </li>
+</ul>
+
+2.5.2 Métodos de Coleta
+
+<ul>
+  <li style="text-align: justify;">
+    <strong>Coleta Proativa:</strong> Entrevistas estruturadas e análise documental como base para o levantamento de requisitos funcionais do sistema.
+  </li>
+  <li style="text-align: justify;">
+    <strong>Coleta Contínua:</strong> Atualização periódica por meio de formulários digitais e integração com dados já armazenados em planilhas ou sistemas paralelos.
+  </li>
+</ul>
+
+2.5.3 Plano de Responsabilidades
+
+<ul>
+  <li style="text-align: justify;">
+    <strong>Gestão do Escritório:</strong> Disponibilizar informações e documentos necessários, bem como participar ativamente das entrevistas e fornecer dados de clientes e processos (incluindo migração de registros históricos).
+  </li>
+  <li style="text-align: justify;">
+    <strong>Equipe de Desenvolvimento:</strong> Estruturar, validar e integrar os dados coletados ao sistema, garantindo integridade, segurança e organização.
+  </li>
+</ul>
+
+2.5.4 Estratégia de Armazenamento
+
+<ul>
+  <li style="text-align: justify;">
+    <strong>Arquitetura Centralizada:</strong> Banco de dados único para consolidar informações jurídicas e administrativas.
+  </li>
+  <li style="text-align: justify;">
+    <strong>Controle de Acesso:</strong> Autenticação multifatorial e permissões baseadas em perfis de usuário (advogado, estagiário, administrador).
+  </li>
+  <li style="text-align: justify;">
+    <strong>Disponibilidade e Resiliência:</strong> Backups automáticos em nuvem (ex.: AWS ou Azure) com estratégias de recuperação de desastres.
+  </li>
+  <li style="text-align: justify;">
+    <strong>Governança:</strong> Estruturação de dados em formato auditável e rastreável, assegurando conformidade regulatória.
+  </li>
+</ul>
+
+2.5.5  Análise de Dados e Funcionalidades do Sistema
 
 <p align="justify">
-<strong>Formulários Estruturados:</strong> Instrumentos padronizados para cadastro de clientes, processos e contratos, favorecendo a uniformização da base de dados.</p>
+A partir dos dados coletados e organizados, o sistema será projetado para otimizar a rotina do escritório, reduzir riscos operacionais e promover eficiência.</p>
+
+2.5.6 Gestão de Prazos Processuais
 
 <p align="justify">
-<strong>Acervo Documental:</strong> Revisão sistemática de contratos digitais, petições e procurações, com a finalidade de identificar padrões recorrentes, cláusulas críticas e informações essenciais.</p>
+A perda de prazos constitui um dos riscos mais críticos na prática jurídica. O sistema atuará como ferramenta de mitigação por meio de:</p>
+
+<ul>
+  <li style="text-align: justify;">
+    <strong>Alertas Automáticos:</strong> Notificações de prazos processuais (audiências, recursos, contestações etc.) enviadas por e-mail, pop-up e chat interno.
+  </li>
+</ul>
+
+## 2.6. Compliance de TI e Segurança da Informação
 
 <p align="justify">
-<strong>Pesquisa de Mercado:</strong> Benchmarking de softwares jurídicos e análise comparativa de soluções concorrentes para avaliar tendências e melhores práticas do setor.</p>
+A adoção de práticas de Compliance de TI e Segurança da Informação é essencial para garantir a integridade, confidencialidade e disponibilidade dos dados jurídicos tratados por escritórios de advocacia. Mesmo em ambientes com recursos limitados, é possível implementar medidas eficazes que assegurem o cumprimento de normas legais e éticas, especialmente no que diz respeito à proteção de informações sensíveis de clientes e processos judiciais.</p>
+
+O sistema Juris Fácil será desenvolvido em conformidade com:
+
+<ul>
+  <li style="text-align: justify;">
+    <strong>Lei Geral de Proteção de Dados (LGPD – Lei nº 13.709/2018):</strong> exige transparência, segurança e consentimento no tratamento de dados pessoais;
+  </li>
+  <li style="text-align: justify;">
+    <strong>Estatuto da Advocacia (Lei nº 8.906/1994) e Código de Ética da OAB:</strong> impõem responsabilidade ética no uso de tecnologia, especialmente no tratamento de informações sensíveis;
+  </li>
+  <li style="text-align: justify;">
+    <strong>Diretrizes da OAB sobre uso de tecnologia e IA:</strong> recomendam supervisão humana e proíbem decisões automatizadas sem revisão profissional;
+  </li>
+  <li style="text-align: justify;">
+    <strong>Normas ISO/IEC 27001:</strong> padrão internacional para gestão da segurança da informação, aplicável como referência para boas práticas;
+  </li>
+  <li style="text-align: justify;">
+    <strong>Lei Anticorrupção (Lei nº 12.846/2013):</strong> prevê que “mecanismos e procedimentos internos de integridade, auditoria e incentivo à denúncia de irregularidades e a aplicação efetiva de códigos de ética e de conduta” podem ser levados em consideração na aplicação das sanções a serem impostas pela empresa violadora. Não faz distinção entre grandes e pequenos escritórios de advocacia, aplicando-se a qualquer pessoa jurídica envolvida em atos contra a administração pública;
+  </li>
+  <li style="text-align: justify;">
+    <strong>Política Nacional de Segurança da Informação (PNSI – Decreto nº 12.572/2025):</strong> estabelece princípios para garantir a integridade e autenticidade da informação no Brasil;
+  </li>
+  <li style="text-align: justify;">
+    <strong>Estratégia Nacional de Cibersegurança (E-Ciber – Decreto nº 12.573/2025):</strong> define diretrizes, ações e metas para a proteção do espaço digital brasileiro.
+  </li>
+</ul>
+
+| Tipo de Dado | Classificação (LGPD) | Recomendações de Segurança |
+|---|---|---|
+| Nome | Dado pessoal | Controle de acesso, política de privacidade |
+| CPF | Dado pessoal sensível | Criptografia, controle de acesso, mascaramento em exibição |
+| Identidade | Dado pessoal sensível | Criptografia, controle de acesso |
+| Endereço | Dado pessoal | Controle de acesso, política de privacidade |
+| Código Postal | Dado pessoal | Controle de acesso |
+| Data de Aviso de recebimentos | Dado pessoal | Controle de acesso, armazenamento seguro |
+| Data de Notificações | Dado pessoal | Controle de acesso, armazenamento seguro |
+| Contrato de honorários advocatícios | Dado financeiro | Criptografia, controle de acesso, auditoria |
+| Nacionalidade | Dado pessoal | Controle de acesso |
+| Naturalidade | Dado pessoal | Controle de acesso |
+| Estado civil | Dado pessoal | Controle de acesso |
+| Profissão | Dado pessoal | Controle de acesso |
+| Telefone | Dado pessoal | Controle de acesso, anonimização quando possível |
+| Email | Dado pessoal | Controle de acesso, validação e proteção contra spam |
+| WhatsApp e outros aplicativos de mensagem | Dado pessoal | Controle de acesso, consentimento do titular |
+| Informações contratuais por cliente (Classificação dos contratos por volume e tipo) | Dado financeiro | Criptografia, controle de acesso |
+| Informações processuais por cliente (tipo de processo, contrato associado, tribunal, instância, fase atual) | Dado sensível | Avaliação de conteúdo, anonimização, controle de acesso |
+| Relatório segmentado por cliente (tipo de cliente e demandas) | Dado sensível | Criptografia, controle de acesso, backup seguro |
+| Informações processuais (nº de processos ativos, histórico de atendimentos, faturamento relacionado, registro de prazos processuais e vencimentos) | Dado sensível | Criptografia, controle de acesso, armazenamento seguro, backup regular |
+| Histórico de comunicações (Todas as mensagens trocadas com o cliente) | Dado pessoal | Criptografia, restrição de acesso, armazenamento seguro |
+| Aviso de audiência, status do processo | Dado documental | Criptografia, restrição de acesso, armazenamento seguro |
+| Relatório de Honorários, despesas adicionais, valores de H. Sucumbência, fluxo de pagamentos | Dado financeiro | Criptografia, controle de acesso, auditoria |
 
 <p align="justify">
-<strong>Análise Normativa:</strong> Monitoramento contínuo da <strong>LGPD</strong>, do <strong>Código de Ética da OAB</strong> e da <strong>ISO 27001</strong>, garantindo aderência a requisitos legais e normativos.</p>
+O compliance no contexto do sistema <strong>Juris Fácil</strong> representa o compromisso com a conformidade legal, ética e técnica no tratamento de dados jurídicos. Isso significa adotar práticas e controles que garantam o respeito às leis, normas e regulamentos aplicáveis, como a LGPD, o Código de Ética da OAB e normas técnicas de segurança da informação.</p>
+
+<p align="justify">
+O mapeamento de requisitos obrigatórios é uma etapa fundamental desse processo. Consiste em identificar, documentar e classificar todos os tipos de dados tratados pelo sistema, <strong>como dados pessoais, sensíveis, financeiros e documentais</strong> e associar a cada categoria as medidas de segurança e controles necessários. Esse mapeamento permite:</p>
+
+<ul>
+  <li style="text-align: justify;">
+    Definir políticas de acesso e proteção adequadas para cada tipo de dado;
+  </li>
+  <li style="text-align: justify;">
+    Garantir que apenas pessoas autorizadas possam acessar informações sensíveis;
+  </li>
+  <li style="text-align: justify;">
+    Implementar mecanismos de criptografia, auditoria e descarte seguro;
+  </li>
+  <li style="text-align: justify;">
+    Demonstrar transparência e responsabilidade perante clientes, órgãos reguladores e parceiros.
+  </li>
+</ul>
+
+<p align="justify">
+Ao integrar o compliance e o mapeamento de requisitos obrigatórios à gestão dos dados, o Juros Fácil fortalece a confiança dos usuários, reduz riscos legais e operacionais, e assegura a integridade e a confidencialidade das informações jurídicas.</p>
+
+2.6.2 Políticas de Segurança
+
+Principais medidas a serem implementadas no sistema:
+
+<ul>
+  <li style="text-align: justify;">
+    Controle de acesso com autenticação forte (senhas seguras, autenticação em dois fatores);
+  </li>
+  <li style="text-align: justify;">
+    Perfis de usuário com níveis de permissão (administrador, advogado, assistente);
+  </li>
+  <li style="text-align: justify;">
+    Sessões com tempo limite e bloqueio automático após inatividade;
+  </li>
+  <li style="text-align: justify;">
+    Criptografia de dados em repouso (armazenados);
+  </li>
+  <li style="text-align: justify;">
+    Anonimização de dados pessoais;
+  </li>
+  <li style="text-align: justify;">
+    Monitoramento e registro de todas as ações realizadas no sistema;
+  </li>
+  <li style="text-align: justify;">
+    Logs de acesso, alterações, exclusões e compartilhamentos de dados;
+  </li>
+  <li style="text-align: justify;">
+    Definição clara de prazos de retenção de dados conforme a finalidade legal;
+  </li>
+  <li style="text-align: justify;">
+    Descarte seguro de dados com apagamento definitivo e registro da operação;
+  </li>
+  <li style="text-align: justify;">
+    Backup automático e criptografado;
+  </li>
+  <li style="text-align: justify;">
+    Testes regulares de recuperação para garantir integridade dos dados;
+  </li>
+  <li style="text-align: justify;">
+    Política de privacidade e termos de uso;
+  </li>
+  <li style="text-align: justify;">
+    Cartilha de segurança (educação e divulgação de recomendações práticas para usuários);
+  </li>
+  <li style="text-align: justify;">
+    Consentimento explícito para coleta e uso de dados;
+  </li>
+  <li style="text-align: justify;">
+    Capacitação dos usuários sobre boas práticas de segurança;
+  </li>
+  <li style="text-align: justify;">
+    Alertas sobre phishing, engenharia social e uso indevido de dados;
+  </li>
+  <li style="text-align: justify;">
+    Plano de resposta a incidentes de segurança;
+  </li>
+  <li style="text-align: justify;">
+    Comunicação rápida com os titulares e autoridades em caso de vazamento.
+  </li>
+</ul>
+
+<p align="justify">
+Além das medidas técnicas e operacionais descritas, é fundamental que o sistema Juris Fácil seja regido por políticas claras de proteção de dados e segurança da informação. Essas políticas estabelecem as regras e responsabilidades para todos os usuários, promovendo uma cultura de respeito à privacidade e à integridade das informações jurídicas.</p>
+
+<p align="justify">
+As políticas devem abranger desde o consentimento explícito para o tratamento de dados até a definição de procedimentos para resposta a incidentes de segurança. Também é essencial garantir a transparência sobre como os dados são coletados, utilizados, armazenados e descartados, bem como assegurar que todos os envolvidos estejam cientes das melhores práticas e obrigações legais.</p>
+
+<p align="justify">
+A adoção dessas políticas reforça o compromisso do sistema com a conformidade à LGPD, à ética profissional e à confiança dos clientes, tornando a segurança da informação um valor central na operação do aplicativo.</p>
+
+2.6.3 Monitoramento contínuo
+
+<p align="justify">
+O monitoramento contínuo é uma prática essencial para garantir a eficácia das políticas de segurança da informação e a conformidade do sistema Juris Fácil com as normas legais e técnicas. Por meio do acompanhamento constante das operações, acessos e eventuais incidentes, é possível identificar rapidamente comportamentos anômalos, prevenir falhas e responder de forma ágil a qualquer ameaça à integridade dos dados.</p>
+
+<p align="justify">
+Além disso, o monitoramento contínuo é uma etapa essencial para garantir o sucesso e a eficiência do aplicativo. Por meio do acompanhamento constante do desempenho, uso e feedback dos usuários, é possível identificar rapidamente eventuais falhas, oportunidades de melhoria e necessidades emergentes. Essa prática assegura que o aplicativo se mantenha atualizado, alinhado às demandas jurídicas e tecnológicas, e contribua efetivamente para otimizar a rotina dos advogados, proporcionando maior produtividade e segurança na gestão dos processos. Dessa forma, o monitoramento contínuo complementa o projeto ao promover a evolução constante da ferramenta, garantindo sua relevância e qualidade no longo prazo.</p>
+
+### Referências Bibliográficas
+
+* **BRASIL**. Lei nº 8.906, de 4 de julho de 1994. Dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil (OAB). Brasília, DF, 1994. Disponível em: <https://www.planalto.gov.br/ccivil_03/leis/l8906.htm>. Acesso em: 14 set. 2025.
+
+* **BRASIL**. Lei nº 12.846, de 1º de agosto de 2013. Dispõe sobre a responsabilização administrativa e civil de pessoas jurídicas pela prática de atos lesivos contra a administração pública, nacional ou estrangeira, e dá outras providências. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm>. Acesso em: 14 set. 2025.
+
+* **BRASIL**. Decreto nº 12.572, de 4 de agosto de 2025. Institui a Política Nacional de Segurança da Informação e dispõe sobre a governança da segurança da informação no âmbito da administração pública federal. Diário Oficial da União, Edição 146, Seção 1, página 1, 5 ago. 2025. Disponível em: <https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2025/Decreto/D12572.htm>. Acesso em: 14 set. 2025.
+
+* **BRASIL**. Decreto nº 12.573, de 4 de agosto de 2025. Institui a Estratégia Nacional de Cibersegurança. Diário Oficial da União, Brasília, DF, 5 ago. 2025. Disponível em: <https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2025/Decreto/D12573.htm>. Acesso em: 14 set. 2025.
+
+* **CONSELHO FEDERAL DA OAB**. Perfil ADV: maioria dos advogados brasileiros são autônomos. OAB, 2023. Disponível em: <http://www.oab.org.br/noticia/62213/perfil-adv-maioria-dos-advogados-brasileiros-sao-autonomos>. Acesso em: 25 ago. 2025.
+
+* **CONSELHO FEDERAL DA ORDEM DOS ADVOGADOS DO BRASIL**. Código de Ética e Disciplina da OAB. Brasília, DF: OAB, 1995. Disponível em: <https://www.oab.org.br/content/pdf/legislacaoOab/codigodeetica.pdf>. Acesso em: 14 set. 2025.
+
+* **CONSELHO FEDERAL DA ORDEM DOS ADVOGADOS DO BRASIL**. OAB aprova recomendações para uso de IA na prática jurídica. CFOAB, 2024. Disponível em: <https://www.oab.org.br/noticia/62704/oab-aprova-recomendacoes-para-uso-de-ia-na-pratica-juridica>. Acesso em: 14 set. 2025.
+
+* **DAVENPORT, Thomas H**. Ecologia da informação: por que a tecnologia sozinha não basta para o sucesso na era da informação. São Paulo: Futura, 1997.
+
+* **GOMES, Elisabeth; BRAGA, Fabiane**. Inteligência competitiva: como transformar informação em um negócio lucrativo. Rio de Janeiro: Elsevier, 2004.
+
+* **KAHANER, Larry**. Inteligência Competitiva: como vencer os concorrentes na era da informação. Rio de Janeiro: Imago, 1997.
+
+* **MAIA, Antônio Júnior da Silva**. A TECNOLOGIA DA INFORMAÇÃO NOS ESCRITÓRIOS DE ADVOCACIA. RECIMA21 - Revista Científica Multidisciplinar, Fortaleza - CE, v. 1, n. 1, p. 1-13, 2019. Disponível em: <https://recima21.com.br/index.php/recima21/article/download/101/117/670>. Acesso em: 25 ago. 2025.
+
+* **STRATEGIC AND COMPETITIVE INTELLIGENCE PROFESSIONALS (SCIP)**. What is Competitive Intelligence? Alexandria, VA: SCIP, [20--]. Disponível em: <https://www.scip.org/>. Acesso em: 16 set. 2025.
