@@ -67,7 +67,7 @@ Para guiar a coleta e análise de informações, foram formuladas as seguintes p
   </li>
 </ul>
 
-#### 3. Aspectos Financeiros e Honorários
+#### 3 Aspectos Financeiros e Honorários
 
 <ul>
   <li style="text-align: justify;">
@@ -81,7 +81,7 @@ Para guiar a coleta e análise de informações, foram formuladas as seguintes p
   </li>
 </ul>
 
-#### 4. Comunicação com o Cliente
+#### 4 Comunicação com o Cliente
 
 <ul>
   <li style="text-align: justify;">
