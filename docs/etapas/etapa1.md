@@ -1,4 +1,4 @@
-# 1 INTRODUÇÃO
+# 1. INTRODUÇÃO
 <p align="justify">
 O projeto <strong>Juris Fácil</strong> propõe o desenvolvimento de um sistema voltado para a gestão da rotina de advogados autônomos e pequenos escritórios de advocacia. A iniciativa surgiu a partir da observação das dificuldades enfrentadas por uma advogada localizada em *Barbacena/MG*, que realiza todas as atividades administrativas e jurídicas de forma manual, utilizando apenas seu computador pessoal com acesso à internet e aos sistemas do Poder Judiciário.
 
@@ -15,13 +15,13 @@ Nesse mesmo sentido, o <strong>1º Estudo Demográfico da Advocacia Brasileira (
 <p align="justify">
 Diante desse cenário, em que o número de profissionais autônomos é expressivo e a ausência de ferramentas tecnológicas específicas impacta diretamente sua rotina, o objetivo do projeto é desenvolver um sistema que simplifique a gestão de pequenos escritórios de advocacia e profissionais autônomos. A proposta visa atender às necessidades específicas desses ambientes, promovendo maior organização, controle e eficiência na realização de tarefas administrativas e no acompanhamento de processos judiciais.</p>
 
-## 1.1 ODS - Objetivos de Desenvolvimento Sustentável (ODS) da ONU
+## 1.1. ODS - Objetivos de Desenvolvimento Sustentável (ODS) da ONU
 
 <p align="justify">
 O projeto <strong>Juris Fácil</strong> está alinhado com diversos Objetivos de Desenvolvimento Sustentável (ODS) da ONU, especialmente o ODS 16 (Paz, Justiça e Instituições Eficazes), ao promover o acesso à justiça, a transparência e a integridade na gestão de dados jurídicos. Também contribui para o ODS 9 (Indústria, Inovação e Infraestrutura), ao incentivar a inovação tecnológica no setor jurídico, e para o ODS 4 (Educação de Qualidade), ao capacitar profissionais sobre boas práticas de segurança da informação e compliance. Dessa forma, o sistema busca não apenas otimizar a rotina dos escritórios de advocacia, mas também fortalecer a ética, a confiança e a responsabilidade social no ambiente digital.</p>
 
 
-## 1.2 Apresentação da empresa
+## 1.2. Apresentação da empresa
 
 <p align="justify">
 O escritório de advocacia, localizado no município de Barbacena/MG, atua na representação de clientes em processos judiciais e administrativos, além da elaboração de contratos e prestação de consultoria jurídica. Com quatro anos de experiência no mercado, sua principal atuação concentra-se nas áreas de Direito de Família, Civil e Trabalhista.
@@ -37,7 +37,7 @@ A profissional em questão, atua de forma autônoma e enfrenta diversas demandas
 <p align="justify">
 A partir desse diagnóstico, evidencia-se a necessidade de uma solução tecnológica acessível e adaptada à realidade de pequenos escritórios, capaz de simplificar rotinas administrativas e jurídicas, reduzir custos operacionais e oferecer maior eficiência no atendimento aos clientes.</p>
 
-## 1.3 Análise de Mercado
+## 1.3. Análise de Mercado
 
 <p align="justify">
 O escritório de advocacia atua no setor de serviços jurídicos, oferecendo representação judicial, elaboração de contratos e consultoria. Trata-se de um mercado consolidado e competitivo, no qual a especialização e a eficiência no atendimento são fatores essenciais para a diferenciação.</p>
@@ -54,7 +54,7 @@ Outro ponto de destaque é o marketing jurídico. Apesar das limitações impost
 <p align="justify">
 Nesse contexto, a concorrência direta da cliente é composta principalmente por escritórios de porte semelhante, que atuam nas mesmas áreas. No entanto, alguns escritórios maiores oferecem serviços especializados em segmentos como o empresarial e o previdenciário, ampliando sua base de clientes. Assim, abre-se espaço para diferenciação por meio do uso estratégico da tecnologia, da presença digital bem estruturada e da consolidação de autoridade em nichos específicos, como divórcios, guarda compartilhada, rescisões trabalhistas e contratos civis.</p>
 
-1.3.1 Matriz SWOT
+1.3.1. Matriz SWOT
 
 <p align="justify">
 Abaixo, segue análise realizada utilizando a Matriz de <strong>SWOT</strong> (<strong>S</strong>trengths, <strong>W</strong>eakness, <strong>O</strong>pportunities,<strong>T</strong>hreats), que é uma ferramenta de planejamento estratégico, que aborda os fatores positivos e negativos do segmento de atuação da empresa.</p>
@@ -70,12 +70,12 @@ Figura 1 – Matriz de SWOT
 <p align="justify">
 Em síntese, o escritório analisado encontra-se em um mercado competitivo, no qual a adoção de soluções digitais representa um diferencial estratégico. A implementação de um sistema como o Juris Fácil pode reduzir fraquezas, aproveitar oportunidades e posicionar a profissional de forma mais sólida frente aos concorrentes locais, ao mesmo tempo em que fortalece sua capacidade de crescimento e sustentabilidade no setor jurídico.</p>
 
-## 1.4  Análise de Processos e Sistemas
+## 1.4.  Análise de Processos e Sistemas
 
 <p align="justify">
 Atualmente, o escritório de advocacia analisado realiza seus processos de forma manual, utilizando basicamente o computador pessoal da advogada, com acesso à internet e aos sistemas do poder judiciário. Não há um sistema gerencial centralizado para organizar os dados de clientes, atendimentos e processos, o que gera grande dependência de documentos avulsos em pastas do sistema operacional e anotações manuais em planilhas.</p>
 
-1.4.1 Processos e fluxos de trabalho
+1.4.1. Processos e fluxos de trabalho
 
 O fluxo operacional pode ser descrito da seguinte forma:
 
@@ -103,7 +103,7 @@ O fluxo operacional pode ser descrito da seguinte forma:
 <p align="justify">
 Esse fluxo evidencia a falta de um processo centralizado, o que pode gerar retrabalho, perda de prazos e baixa eficiência na gestão das demandas.</p>
 
-1.4.2 Sistemas de informação existentes
+1.4.2. Sistemas de informação existentes
 
 <p align="justify">
 No momento, o escritório não utiliza sistemas de informação dedicados à gestão jurídica. O único apoio tecnológico se dá por meio de:</p>
@@ -123,7 +123,7 @@ No momento, o escritório não utiliza sistemas de informação dedicados à ges
   <li style="text-align: justify;">Risco de perda de dados devido à ausência de backup estruturado e controle em nuvem.</li>
 </ul>
 
-1.4.4 Oportunidades de melhoria
+1.4.4. Oportunidades de melhoria
 
 <p align="justify">
 O cenário atual permite identificar diversas oportunidades de automação e modernização: </p>
@@ -146,7 +146,7 @@ O cenário atual permite identificar diversas oportunidades de automação e mod
   </li>
 </ul>
 
-1.4.5 Avaliação de maturidade dos sistemas de informação
+1.4.5. Avaliação de maturidade dos sistemas de informação
 
 <p align="justify">
 Segundo o modelo de maturidade em sistemas de informação, o escritório encontra-se em um nível inicial (nível 1), caracterizado pela ausência de sistemas estruturados, forte dependência de ferramentas manuais e baixa padronização nos processos. Isso compromete a escalabilidade e dificulta o crescimento sustentável do negócio.</p>
