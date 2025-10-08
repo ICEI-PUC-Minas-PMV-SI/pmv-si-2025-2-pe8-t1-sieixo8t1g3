@@ -149,7 +149,7 @@ No cenário digital, os dados assumem papel estratégico, mas seu valor depende 
 | Como registrar e rastrear o histórico de interações com cada cliente? | - Histórico de comunicação | Operacional | Documentos físicos e registros manuais |
 | É importante visualizar a quantidade de processos ativos por cliente e os atendimentos realizados por dia? | - Número de processos ativos<br>- Número de atendimentos realizados | Operacional | Documentos físicos e registros manuais |
 
-2.3.1 Avaliação da disponibilidade e confiabilidade dessas fontes.
+2.3.1. Avaliação da disponibilidade e confiabilidade dessas fontes.
 
 #### Fontes Internas (Registros, Agendas, Pastas):
 
@@ -194,7 +194,7 @@ A tabela a seguir apresenta o mapeamento dos requisitos informacionais e funcion
 | Histórico de comunicações | Registro centralizado de interações | Comunicação com o cliente – rastrear histórico de interações | Todas as mensagens trocadas com o cliente | - Tempo médio de atendimento por etapa do processo |
 | Acompanhamento por cliente | Dashboard individual por cliente | Comunicação com o cliente – visualizar processos ativos e atendimentos | Nº de processos ativos, histórico de atendimentos, faturamento relacionado | - Número de processos ativos por advogado<br>- Taxa de sucesso processual |
 
-2.4.2  Indicadores-Chave (KPIs)
+2.4.2.  Indicadores-Chave (KPIs)
 
 <ul>
   <li style="text-align: justify;">
@@ -220,7 +220,7 @@ A tabela a seguir apresenta o mapeamento dos requisitos informacionais e funcion
   </li>
 </ul>
 
-2.4.3  Justificativa dos KPIs
+2.4.3.  Justificativa dos KPIs
 
 <ul>
   <li style="text-align: justify;">
@@ -248,7 +248,7 @@ A tabela a seguir apresenta o mapeamento dos requisitos informacionais e funcion
 <p align="justify">
 Esta etapa inicial visa estabelecer diretrizes para a coleta, análise e armazenamento de dados no contexto advocatício, assegurando <strong>segurança da informação, confidencialidade dos clientes e conformidade com a LGPD e normas ISO 27001.</strong></p>
 
-2.5.1 Fontes de Dados
+2.5.1. Fontes de Dados
 
 <ul>
   <li style="text-align: justify;">
@@ -268,7 +268,7 @@ Esta etapa inicial visa estabelecer diretrizes para a coleta, análise e armazen
   </li>
 </ul>
 
-2.5.2 Métodos de Coleta
+2.5.2. Métodos de Coleta
 
 <ul>
   <li style="text-align: justify;">
@@ -279,7 +279,7 @@ Esta etapa inicial visa estabelecer diretrizes para a coleta, análise e armazen
   </li>
 </ul>
 
-2.5.3 Plano de Responsabilidades
+2.5.3. Plano de Responsabilidades
 
 <ul>
   <li style="text-align: justify;">
@@ -290,7 +290,7 @@ Esta etapa inicial visa estabelecer diretrizes para a coleta, análise e armazen
   </li>
 </ul>
 
-2.5.4 Estratégia de Armazenamento
+2.5.4. Estratégia de Armazenamento
 
 <ul>
   <li style="text-align: justify;">
@@ -307,12 +307,12 @@ Esta etapa inicial visa estabelecer diretrizes para a coleta, análise e armazen
   </li>
 </ul>
 
-2.5.5  Análise de Dados e Funcionalidades do Sistema
+2.5.5.  Análise de Dados e Funcionalidades do Sistema
 
 <p align="justify">
 A partir dos dados coletados e organizados, o sistema será projetado para otimizar a rotina do escritório, reduzir riscos operacionais e promover eficiência.</p>
 
-2.5.6 Gestão de Prazos Processuais
+2.5.6. Gestão de Prazos Processuais
 
 <p align="justify">
 A perda de prazos constitui um dos riscos mais críticos na prática jurídica. O sistema atuará como ferramenta de mitigação por meio de:</p>
@@ -403,7 +403,7 @@ O mapeamento de requisitos obrigatórios é uma etapa fundamental desse processo
 <p align="justify">
 Ao integrar o compliance e o mapeamento de requisitos obrigatórios à gestão dos dados, o Juros Fácil fortalece a confiança dos usuários, reduz riscos legais e operacionais, e assegura a integridade e a confidencialidade das informações jurídicas.</p>
 
-2.6.2 Políticas de Segurança
+2.6.2. Políticas de Segurança
 
 Principais medidas a serem implementadas no sistema:
 
@@ -473,7 +473,7 @@ As políticas devem abranger desde o consentimento explícito para o tratamento 
 <p align="justify">
 A adoção dessas políticas reforça o compromisso do sistema com a conformidade à LGPD, à ética profissional e à confiança dos clientes, tornando a segurança da informação um valor central na operação do aplicativo.</p>
 
-2.6.3 Monitoramento contínuo
+2.6.3. Monitoramento contínuo
 
 <p align="justify">
 O monitoramento contínuo é uma prática essencial para garantir a eficácia das políticas de segurança da informação e a conformidade do sistema Juris Fácil com as normas legais e técnicas. Por meio do acompanhamento constante das operações, acessos e eventuais incidentes, é possível identificar rapidamente comportamentos anômalos, prevenir falhas e responder de forma ágil a qualquer ameaça à integridade dos dados.</p>
