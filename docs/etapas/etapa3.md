@@ -64,9 +64,10 @@ Os requisitos não funcionais determinam critérios de desempenho, segurança, u
 | RNF06 | O sistema deve ser compatível com os principais navegadores web do mercado. | Alta |
 | RNF07 | A aplicação deve ser responsiva para permitir consultas básicas em dispositivos móveis. | Baixa |
 
+### Tecnologias e ferramentas utilizadas
+<p align="justify">
+Para o desenvolvimento deste projeto, foi selecionado um conjunto de tecnologias modernas e consolidadas no mercado, visando garantir uma aplicação robusta, segura e de alta performance. As ferramentas, bibliotecas e frameworks listados a seguir foram escolhidos para compor a arquitetura do front-end e do back-end, assegurando escalabilidade e manutenibilidade a longo prazo.</p>
 
-3.2.3. Escolher ferramentas/plataformas.
+### Diagramas de caso de uso
 
-3.2.4. Construir Diagrama de caso de uso.
-
-3.2.5. Desenvolver esboço do banco de dados (modelo ER).
+### Desenvolver esboço do banco de dados (modelo ER).
