@@ -70,4 +70,37 @@ Para o desenvolvimento deste projeto, foi selecionado um conjunto de tecnologias
 
 ### Diagramas de caso de uso
 
+#### Caso de Uso 1: Gestão de Clientes
+
+Este diagrama descreve as interações do usuário para gerenciar as informações dos clientes do escritório.
+
+- Atores: Advogado, Gestor (representados como "Usuário do Sistema").
+
+- Resumo: O usuário pode cadastrar, consultar, editar e excluir clientes. O sistema valida os dados para garantir a consistência.
+
+#### Caso de Uso 2: Gestão de Processos
+
+Descreve como os advogados e gestores gerenciam os processos jurídicos dentro do sistema.
+
+- Atores: Advogado, Gestor (representados como "Usuário do Sistema").
+
+- Resumo: Permite o cadastro de novos processos, a consulta de andamentos, atualização de status e o registro de comunicações importantes.
+
+#### Caso de Uso 3: Gestão Financeira
+
+Detalha as ações do gestor financeiro para controlar as finanças relacionadas aos processos e contratos.
+
+- Atores: Gestor Financeiro.
+
+- Resumo: O gestor pode registrar honorários e despesas, associando-os a processos específicos para controlar a rentabilidade.
+
+#### Caso de Uso 4: Geração de Relatórios
+
+Mostra como os gestores podem extrair informações estratégicas do sistema por meio de relatórios.
+
+- Atores: Gestor.
+
+- Resumo: O sistema permite a visualização de diversos relatórios para análise de desempenho, perfil de clientes e saúde financeira do escritório.
+
+
 ### Desenvolver esboço do banco de dados (modelo ER).
