@@ -2,21 +2,19 @@
 
 ## 3.1. Conexão com o Plano de IC e Planejamento da Solução
 
-3.1.1. Relembrar o KIT, as KIQs e os dados críticos do Plano de IC.
+### Relembrar o KIT, as KIQs e os dados críticos do Plano de IC.
 
-3.1.2. Identificar o(s) processo(s) que serão resolvidos com a aplicação.
+### Identificar o(s) processo(s) que serão resolvidos com a aplicação.
 
-3.1.3. Definir funcionalidades iniciais a serem desenvolvidas.
+### Definir funcionalidades iniciais a serem desenvolvidas.
 
-3.1.4. Criar um quadro-resumo com:
+### Criar um quadro-resumo com:
 
 - Problema mapeado | Solução proposta | Como será resolvida no sistema
 
-
-
 ## 3.2. Levantamento de Requisitos e Modelagem Inicial
 
-3.2.1. Histórias de Usuários
+### Histórias de Usuários
 
 | ID | Como... | Eu quero... | Para que... |
 | :--- | :--- | :--- | :--- |
@@ -33,7 +31,7 @@
 | HU11 | gestor | comparar a produtividade administrativa antes e depois da implantação do sistema | mensurar o impacto da solução Juris Fácil na rotina operacional. |
 | HU12 | sócio do escritório | analisar a taxa de sucesso processual (casos ganhos vs. perdidos) | avaliar o desempenho jurídico e fortalecer a reputação da empresa. |
 
-3.2.2. Requisitos do Sistema
+### Requisitos do Sistema
 
 <p align="justify">
 Com base nas histórias de usuário e nas necessidades de otimização do escritório, organizamos abaixo os requisitos funcionais e não funcionais. As prioridades (Alta, Média ou Baixa) foram definidas considerando a importância de cada requisito para a operação diária e para o sucesso da implantação inicial do sistema "Juris Fácil".</p>
