@@ -20,6 +20,15 @@ A ausência de ferramentas tecnológicas específicas para a organização de ta
 * Gina Rocha Dutra
 * Salomão André Gomes Lobato
 
+# Planejamento
+
+| Etapa         | Atividades |
+|  :----:   | ----------- |
+| ETAPA 1         |[Definição da empresa e estudo do seu mercado, processos e sistemas](docs/etapas/etapa1.md) <br> |
+| ETAPA 2         |[Conhecendo os dados](docs/conhecendo-dados.md) <br> |
+| ETAPA 3         |[Preparação dos dados, construção e avaliação dos modelos propostos](docs/construindo-modelos.md) |
+| ETAPA 4        |[Implantação e apresentação da solução](docs/implantação-apresentacao.md) <br>  |
+
 
 ## Orientador
 
