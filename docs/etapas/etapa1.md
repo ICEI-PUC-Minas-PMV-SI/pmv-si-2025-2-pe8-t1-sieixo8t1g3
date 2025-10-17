@@ -1,4 +1,5 @@
-# 1. Definição da empresa e estudo do seu mercado, processos e sistemas
+# 1. Definição da empresa e estudo do mercado, processos e sistemas
+
 <p align="justify">
 O projeto <strong>Juris Fácil</strong> propõe o desenvolvimento de um sistema voltado para a gestão da rotina de advogados autônomos e pequenos escritórios de advocacia. A iniciativa surgiu a partir da observação das dificuldades enfrentadas por uma advogada localizada em *Barbacena/MG*, que realiza todas as atividades administrativas e jurídicas de forma manual, utilizando apenas seu computador pessoal com acesso à internet e aos sistemas do Poder Judiciário.
 
