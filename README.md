@@ -25,8 +25,8 @@ A ausência de ferramentas tecnológicas específicas para a organização de ta
 | Etapa         | Atividades |
 |  :----:   | ----------- |
 | ETAPA 1         |[Definição da empresa e estudo do seu mercado, processos e sistemas](docs/etapas/etapa1.md) <br> |
-| ETAPA 2         |[Conhecendo os dados](docs/conhecendo-dados.md) <br> |
-| ETAPA 3         |[Preparação dos dados, construção e avaliação dos modelos propostos](docs/construindo-modelos.md) |
+| ETAPA 2         |[Plano de Inteligência Competitiva (IC)](docs/etapas/etapa2.md) <br> |
+| ETAPA 3         |[Desenvolvimento de alternativas de soluções de SI](docs/etapas/etapa3.md) |
 | ETAPA 4        |[Implantação e apresentação da solução](docs/implantação-apresentacao.md) <br>  |
 
 
