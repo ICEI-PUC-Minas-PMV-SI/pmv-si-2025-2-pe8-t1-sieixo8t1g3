@@ -1,4 +1,4 @@
-# 2. PLANO DE INTELIGÊNCIA COMPETITIVA (IC)
+# 2. Plano de Inteligência Competitiva (IC)
 
 <p align="justify">
 A Inteligência Competitiva (IC) é o processo sistemático de coletar e analisar informações sobre o ambiente de negócios para transformá-las em conhecimento estratégico. No setor de advocacia, isso significa ir além da prática jurídica e monitorar ativamente concorrentes, novas teses e as mudanças nas necessidades dos clientes. Sua importância é crucial, pois permite que advogados e escritórios deixem de tomar decisões baseadas apenas na intuição e passem a agir com base em dados para otimizar a gestão interna, identificar nichos de mercado mais rentáveis e, por fim, construir uma vantagem competitiva sólida e duradoura.</p>
