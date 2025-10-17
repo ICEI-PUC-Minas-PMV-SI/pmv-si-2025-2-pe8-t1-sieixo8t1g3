@@ -25,7 +25,7 @@ A ausência de ferramentas tecnológicas específicas para a organização de ta
 
 * Profa. Dra. Simone Fernandes Queiroz
 
-# Planejamento
+## Planejamento
 
 | Etapa         | Atividades |
 |  :----:   | ----------- |
