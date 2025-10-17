@@ -20,6 +20,10 @@ A ausência de ferramentas tecnológicas específicas para a organização de ta
 * Gina Rocha Dutra
 * Salomão André Gomes Lobato
 
+## Orientador
+
+* Profa. Dra. Simone Fernandes Queiroz
+
 # Planejamento
 
 | Etapa         | Atividades |
@@ -27,10 +31,5 @@ A ausência de ferramentas tecnológicas específicas para a organização de ta
 | ETAPA 1         |[Definição da empresa e estudo do seu mercado, processos e sistemas](docs/etapas/etapa1.md) <br> |
 | ETAPA 2         |[Plano de Inteligência Competitiva (IC)](docs/etapas/etapa2.md) <br> |
 | ETAPA 3         |[Desenvolvimento de alternativas de soluções de SI](docs/etapas/etapa3.md) |
-| ETAPA 4        |[Implantação e apresentação da solução](docs/implantação-apresentacao.md) <br>  |
-
-
-## Orientador
-
-* Profa. Dra. Simone Fernandes Queiroz
-
+| ETAPA 4        |[Planejamento Estratégico de TI](docs/etapas/etapa4.md) <br>  |
+| ETAPA 5        |[Apresentação do projeto. PETI, Governança e Auditoria de TI](docs/etapas/etapa5.md) <br>  |
