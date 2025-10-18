@@ -68,6 +68,16 @@ Os requisitos não funcionais determinam critérios de desempenho, segurança, u
 <p align="justify">
 Para o desenvolvimento deste projeto, foi selecionado um conjunto de tecnologias modernas e consolidadas no mercado, visando garantir uma aplicação robusta, segura e de alta performance. As ferramentas, bibliotecas e frameworks listados a seguir foram escolhidos para compor a arquitetura do front-end e do back-end, assegurando escalabilidade e manutenibilidade a longo prazo.</p>
 
+#### Frontend
+
+-  Canva: é uma plataforma de design gráfico online que permite aos usuários criar uma vasta gama de conteúdos visuais de forma intuitiva.
+  
+    (Canva [Juris Fácil](https://www.canva.com/design/DAG1NNkbWeg/6xc3dH8D3Fq2Z17CpPDi_A/edit))
+  
+-  Figma: é uma ferramenta de design de interfaces (UI) e experiência do usuário (UX) baseada na nuvem.
+  
+    (Figma [Juris Fácil](https://www.figma.com/make/ITWz72V2wtKo2NnZ1Y6y5w/P%C3%A1gina-Inicial-JURIS-F%C3%81CIL--c%C3%B3pia-?node-id=0-1&p=f))
+
 ### Diagramas de caso de uso
 
 #### Caso de Uso 1: Gestão de Clientes
