@@ -78,6 +78,8 @@ Para o desenvolvimento deste projeto, foi selecionado um conjunto de tecnologias
   
     (Figma [Juris Fácil](https://www.figma.com/make/ITWz72V2wtKo2NnZ1Y6y5w/P%C3%A1gina-Inicial-JURIS-F%C3%81CIL--c%C3%B3pia-?node-id=0-1&p=f))
 
+#### Backend
+
 ### Diagramas de caso de uso
 
 #### Caso de Uso 1: Gestão de Clientes
