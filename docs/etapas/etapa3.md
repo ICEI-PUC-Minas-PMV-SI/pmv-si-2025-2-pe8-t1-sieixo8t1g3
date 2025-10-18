@@ -1,5 +1,3 @@
-# 3. Desenvolvimento de alternativas de soluções de SI
-
 ## 3.1. Conexão com o Plano de IC e Planejamento da Solução
 
 ### Relembrar o KIT, as KIQs e os dados críticos do Plano de IC.
@@ -82,37 +80,106 @@ Para o desenvolvimento deste projeto, foi selecionado um conjunto de tecnologias
 
 ### Diagramas de caso de uso
 
-#### Caso de Uso 1: Gestão de Clientes
+#### - Caso de Uso 1: Gestão de Clientes
 
-Este diagrama descreve as interações do usuário para gerenciar as informações dos clientes do escritório.
+Este diagrama descreve as interações do usuário para gerenciar os dados dos clientes do escritório.
 
-- Atores: Advogado, Gestor (representados como "Usuário do Sistema").
+<p align="justify">
+<strong>Ator:</strong> Advogado (representados como "Usuário do Sistema").
+</p>
 
-- Resumo: O usuário pode cadastrar, consultar, editar e excluir clientes. O sistema valida os dados para garantir a consistência.
+<p align="justify">
+<strong>Descrição:</strong> O usuário pode cadastrar, consultar, editar e excluir clientes. O sistema valida os dados para garantir a consistência.
+</p>
 
-#### Caso de Uso 2: Gestão de Processos
+<p align="center">
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/224dfbee-cb7e-472d-9746-5be8adfdd878" />
+</p>
 
-Descreve como os advogados e gestores gerenciam os processos jurídicos dentro do sistema.
+#### - Caso de Uso 2: Gestão de Processos
 
-- Atores: Advogado, Gestor (representados como "Usuário do Sistema").
+Descreve como os advogados gerenciam os processos jurídicos dentro do sistema.
 
-- Resumo: Permite o cadastro de novos processos, a consulta de andamentos, atualização de status e o registro de comunicações importantes.
+<p align="justify">
+<strong>Ator:</strong> Advogado (representados como "Usuário do Sistema").
+</p>
 
-#### Caso de Uso 3: Gestão Financeira
+<p align="justify">
+<strong>Descrição:</strong> Permite o cadastro de novos processos, a consulta de andamentos, atualização de status e o registro de comunicações importantes.
+</p>
 
-Detalha as ações do gestor financeiro para controlar as finanças relacionadas aos processos e contratos.
+<p align="center">
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2799f4e2-f54d-4b2b-bcba-4f6832f2576c" />
+</p>
 
-- Atores: Gestor Financeiro.
+#### - Caso de Uso 3: Geração de Relatórios e Dashboards
 
-- Resumo: O gestor pode registrar honorários e despesas, associando-os a processos específicos para controlar a rentabilidade.
+Mostra como os advogados podem extrair informações estratégicas sobre clientes, processos e contratos para tomada de decisão por meio de relatórios.
 
-#### Caso de Uso 4: Geração de Relatórios
+<p align="justify">
+<strong>Atores:</strong> Advogado.
+</p>
 
-Mostra como os gestores podem extrair informações estratégicas do sistema por meio de relatórios.
+<p align="justify">
+<strong>Descrição:</strong> O sistema permite a visualização de diversos relatórios para análise de desempenho, perfil de clientes e saúde financeira do escritório. Ele permite a visualização de número de cliente vadastrados no sistema, número total de processos e destaca os que têm prioridade urgente e alta, apresenta o valor total de honorários em contrayos ativos, informa sobre prazos que vencem nos próximos dias para evitar atrasos, exibe gráfico com a distribuição dos processos por status e mostra gráfico com a quantidade de processos em cada fase. </p>
 
-- Atores: Gestor.
+<p align="center">
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3231468f-4850-4395-8a08-5c8ffc536f2d" />
+</p>
 
-- Resumo: O sistema permite a visualização de diversos relatórios para análise de desempenho, perfil de clientes e saúde financeira do escritório.
+#### - Caso de Uso 4: Acompanhamento de Prazos Processuais e Audiências
+
+<p align="justify">
+Detalha as ações do advogado para visualizar e filtrar os prazos processuais e audiências por categoria (vencidos, hoje, próximos 7 dias, futuros), com opção de limpar os filtros e retornar à visão geral.
+</p>
+
+<p align="justify">
+<strong>Ator</strong> Advogado.
+</p>
+
+<p align="justify">
+<strong>Descrição:</strong> Permite exibir os prazos que já passaram e estão pendentes de ação, mostra os prazos que vencem na data atual, apresenta os prazos que vencerão dentro de uma semana, lista os prazos com vencimento além de 7 dias e remove o filtro aplicado, retornando à visualização completa de todos os prazos.
+</p>
+
+<p align="center">
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/60db00de-c705-4386-88ca-3e94d4d9e5b7" />
+</p>
+
+#### - Caso de Uso 5: Gestão de Contratos de Honorários
+
+<p align="justify">
+Detalha as ações do advogado para gerir os contratos dos clientes.
+</p>
+
+<p align="justify">
+<strong>Ator</strong> Advogado.
+</p>
+
+<p align="justify">
+<strong>Descrição:</strong> Permite gerar um novo contrato a partir de um processo previamente cadastrado, lista, edita, salva e imprime os contratos cadastrados, mostra o status de que o contrato já está assinado ou não e permite fazer upload de contrato salvo no computador. 
+</p>
+
+<p align="center">
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e3fe9051-cc4f-4eab-990d-3d25ba1f3843" />
+</p>
+
+#### - Caso de Uso 6: Relatórios do Sistema
+
+<p align="justify">
+Detalha as ações do advogado para consultar e gerir os dados dos clientes e dos processos dos clientes.
+</p>
+
+<p align="justify">
+<strong>Ator</strong> Advogado.
+</p>
+
+<p align="justify">
+<strong>Descrição:</strong> Permite visualizar uma lista com os clientes cadastrados e seus dados, exibe uma lista de processos cadastrados e e seus dados, permite buscar clientes por nome, documento ou e-mail, e processos por número, cliente ou tipo de ação, exporta o relatório em formato csv, ao clicar no "olhinho", na linha de um cliente, exibe um pop-up com os dados básicos do cliente e informações processuais e ao clicar em "ações", o sistema redireciona para a tela de edição do cliente ou processo correspondente . 
+</p>
+
+<p align="center">
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/173a2a85-8923-4b4f-b8b6-a6ab80e99790" />
+</p>
 
 
 ### Desenvolver esboço do banco de dados (modelo ER).
