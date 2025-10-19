@@ -85,7 +85,11 @@ Para o desenvolvimento deste projeto, foi selecionado um conjunto de tecnologias
 Este diagrama descreve as interações do usuário para gerenciar os dados dos clientes do escritório.
 
 <p align="justify">
-<strong>Ator:</strong> Advogado (representados como "Usuário do Sistema").
+<strong>Ator:</strong> Advogado, assistente jurídico ou administrador (representados como "Usuário do Sistema").
+</p>
+
+<p align="justify">
+<strong>Ator:</strong> Sistema (representados como "Sistema").
 </p>
 
 <p align="justify">
@@ -93,23 +97,28 @@ Este diagrama descreve as interações do usuário para gerenciar os dados dos c
 </p>
 
 <p align="center">
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/224dfbee-cb7e-472d-9746-5be8adfdd878" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/20e8d9af-65bd-4333-a07d-d14a7b374253" />
 </p>
+
 
 #### - Caso de Uso 2: Gestão de Processos
 
 Descreve como os advogados gerenciam os processos jurídicos dentro do sistema.
 
 <p align="justify">
-<strong>Ator:</strong> Advogado (representados como "Usuário do Sistema").
+<strong>Ator:</strong> Advogado, assistente jurídico ou administrador (representados como "Usuário do Sistema").
 </p>
 
 <p align="justify">
-<strong>Descrição:</strong> Permite o cadastro de novos processos, a consulta de andamentos, atualização de status e o registro de comunicações importantes.
+<strong>Ator:</strong> Sistema (representados como "Sistema").
+</p>
+
+<p align="justify">
+<strong>Descrição:</strong> Permite o cadastro de novos processos, a consulta de processos, atualização de status e a edição do processo.
 </p>
 
 <p align="center">
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2799f4e2-f54d-4b2b-bcba-4f6832f2576c" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/b8e660aa-b965-43c1-bd3a-46f68019d21b" />
 </p>
 
 #### - Caso de Uso 3: Geração de Relatórios e Dashboards
@@ -121,10 +130,14 @@ Mostra como os advogados podem extrair informações estratégicas sobre cliente
 </p>
 
 <p align="justify">
+<strong>Ator:</strong> Sistema (representados como "Sistema").
+</p>
+
+<p align="justify">
 <strong>Descrição:</strong> O sistema permite a visualização de diversos relatórios para análise de desempenho, perfil de clientes e saúde financeira do escritório. Ele permite a visualização de número de cliente vadastrados no sistema, número total de processos e destaca os que têm prioridade urgente e alta, apresenta o valor total de honorários em contrayos ativos, informa sobre prazos que vencem nos próximos dias para evitar atrasos, exibe gráfico com a distribuição dos processos por status e mostra gráfico com a quantidade de processos em cada fase. </p>
 
 <p align="center">
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3231468f-4850-4395-8a08-5c8ffc536f2d" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/d1e3ccf6-58b6-4cdd-8db5-4709be4dc83f" />
 </p>
 
 #### - Caso de Uso 4: Acompanhamento de Prazos Processuais e Audiências
