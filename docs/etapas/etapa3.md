@@ -137,7 +137,7 @@ Mostra como os advogados podem extrair informações estratégicas sobre cliente
 <strong>Descrição:</strong> O sistema permite a visualização de diversos relatórios para análise de desempenho, perfil de clientes e saúde financeira do escritório. Ele permite a visualização de número de cliente vadastrados no sistema, número total de processos e destaca os que têm prioridade urgente e alta, apresenta o valor total de honorários em contrayos ativos, informa sobre prazos que vencem nos próximos dias para evitar atrasos, exibe gráfico com a distribuição dos processos por status e mostra gráfico com a quantidade de processos em cada fase. </p>
 
 <p align="center">
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/d1e3ccf6-58b6-4cdd-8db5-4709be4dc83f" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/8e5742f5-1b9a-408f-b263-e846165c3b08" />
 </p>
 
 #### - Caso de Uso 4: Acompanhamento de Prazos Processuais e Audiências
@@ -151,11 +151,15 @@ Detalha as ações do advogado para visualizar e filtrar os prazos processuais e
 </p>
 
 <p align="justify">
+<strong>Ator:</strong> Sistema (representados como "Sistema").
+</p>
+
+<p align="justify">
 <strong>Descrição:</strong> Permite exibir os prazos que já passaram e estão pendentes de ação, mostra os prazos que vencem na data atual, apresenta os prazos que vencerão dentro de uma semana, lista os prazos com vencimento além de 7 dias e remove o filtro aplicado, retornando à visualização completa de todos os prazos.
 </p>
 
 <p align="center">
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/60db00de-c705-4386-88ca-3e94d4d9e5b7" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/2cd8c50a-d9ca-4d84-97bf-7615e69951e1" />
 </p>
 
 #### - Caso de Uso 5: Gestão de Contratos de Honorários
