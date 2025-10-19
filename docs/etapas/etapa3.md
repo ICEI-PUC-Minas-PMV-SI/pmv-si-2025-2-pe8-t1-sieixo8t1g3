@@ -72,6 +72,10 @@ Para o desenvolvimento deste projeto, foi selecionado um conjunto de tecnologias
   
     (Figma [Juris Fácil](https://www.figma.com/make/ITWz72V2wtKo2NnZ1Y6y5w/P%C3%A1gina-Inicial-JURIS-F%C3%81CIL--c%C3%B3pia-?node-id=0-1&p=f))
 
+-  Excalidraw: é um quadro branco virtual (whiteboard), de código-aberto e baseado em navegador, voltado para desenho livre de diagramas, esquemas, esboços e fluxos com visual “à mão” (hand-drawn).
+  
+    (Excalidraw [Juris Fácil](https://excalidraw.com/#json=tUmKUvQhMW4q7mVsOuLbB,YSAJezME_EeIg_19ld9TRQ))
+
 #### Backend
 
 ### Diagramas de caso de uso
