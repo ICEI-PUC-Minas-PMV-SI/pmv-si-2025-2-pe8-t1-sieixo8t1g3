@@ -126,7 +126,7 @@ Descreve como os advogados gerenciam os processos jurídicos dentro do sistema.
 Mostra como os advogados podem extrair informações estratégicas sobre clientes, processos e contratos para tomada de decisão por meio de relatórios.
 
 <p align="justify">
-<strong>Atores:</strong> Advogado.
+<strong>Ator:</strong> Advogado, assistente jurídico ou administrador (representados como "Usuário do Sistema").
 </p>
 
 <p align="justify">
@@ -147,7 +147,7 @@ Detalha as ações do advogado para visualizar e filtrar os prazos processuais e
 </p>
 
 <p align="justify">
-<strong>Ator</strong> Advogado.
+<strong>Ator:</strong> Advogado, assistente jurídico ou administrador (representados como "Usuário do Sistema").
 </p>
 
 <p align="justify">
@@ -169,7 +169,7 @@ Detalha as ações do advogado para gerir os contratos dos clientes.
 </p>
 
 <p align="justify">
-<strong>Ator</strong> Advogado.
+<strong>Ator:</strong> Advogado, assistente jurídico ou administrador (representados como "Usuário do Sistema").
 </p>
 
 <p align="justify">
@@ -191,7 +191,7 @@ Detalha as ações do advogado para consultar e gerir os dados dos clientes e do
 </p>
 
 <p align="justify">
-<strong>Ator</strong> Advogado.
+<strong>Ator:</strong> Advogado, assistente jurídico ou administrador (representados como "Usuário do Sistema").
 </p>
 
 <p align="justify">
