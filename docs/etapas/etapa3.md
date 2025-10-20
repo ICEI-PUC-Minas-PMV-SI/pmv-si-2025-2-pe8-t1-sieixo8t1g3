@@ -1,7 +1,5 @@
 ## 3.1. Conexão com o Plano de IC e Planejamento da Solução
 
-### Relembrar o KIT, as KIQs e os dados críticos do Plano de IC.
-
 ### Processos que serão resolvidos com a aplicação:
 
 **- Gestão de processos judiciais:** organização, acompanhamento e controle de prazos.<br/>
