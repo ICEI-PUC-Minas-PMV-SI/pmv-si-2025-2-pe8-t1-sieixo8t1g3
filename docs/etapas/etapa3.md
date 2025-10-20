@@ -173,11 +173,15 @@ Detalha as ações do advogado para gerir os contratos dos clientes.
 </p>
 
 <p align="justify">
+<strong>Ator:</strong> Sistema (representados como "Sistema").
+</p>
+
+<p align="justify">
 <strong>Descrição:</strong> Permite gerar um novo contrato a partir de um processo previamente cadastrado, lista, edita, salva e imprime os contratos cadastrados, mostra o status de que o contrato já está assinado ou não e permite fazer upload de contrato salvo no computador. 
 </p>
 
 <p align="center">
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e3fe9051-cc4f-4eab-990d-3d25ba1f3843" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/4c9719b1-f6ee-4999-87a0-dc3e2bbb87f3" />
 </p>
 
 #### - Caso de Uso 6: Relatórios do Sistema
@@ -188,6 +192,10 @@ Detalha as ações do advogado para consultar e gerir os dados dos clientes e do
 
 <p align="justify">
 <strong>Ator</strong> Advogado.
+</p>
+
+<p align="justify">
+<strong>Ator:</strong> Sistema (representados como "Sistema").
 </p>
 
 <p align="justify">
