@@ -25,9 +25,9 @@
 | **Problema Mapeado**                                      | **Solução Proposta**                          | **Como será resolvida no sistema**                                               |
 |-----------------------------------------------------------|-----------------------------------------------|-----------------------------------------------------------------------------------|
 | Desorganização de processos e prazos                      | Centralização e controle automatizado         | Cadastro de processos com alertas e agenda integrada                             |
-| Falta de controle sobre contratos e honorários            | Gestão financeira e documental                | Módulo de contratos com valores, vencimentos e relatórios                        |
+| Falta de controle sobre contratos e honorários            | Gestão financeira e documental                | Geração de relatórios por processo, com valores, vencimentos e status do pagamento                        |
 | Comunicação dispersa com clientes                         | Histórico centralizado de interações          | Registro de mensagens e notificações por cliente                                 |
-| Risco de perda ou vazamento de documentos                 | Armazenamento seguro e criptografado          | Upload com criptografia, controle de acesso e backup                             |
+| Risco de perda ou vazamento de dados                 | Armazenamento seguro e criptografado          | Upload com criptografia, controle de acesso e backup                             |
 | Ausência de relatórios para tomada de decisão             | Relatórios segmentados e exportáveis          | Geração de relatórios por cliente, processo e honorários                         |
 | Riscos de não conformidade com a LGPD                     | Implementação de políticas e controles        | Consentimento, anonimização, logs e política de privacidade                      |
 
