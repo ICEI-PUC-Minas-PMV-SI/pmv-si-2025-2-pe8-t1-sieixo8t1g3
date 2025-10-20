@@ -2,11 +2,27 @@
 
 ### Relembrar o KIT, as KIQs e os dados críticos do Plano de IC.
 
-### Identificar o(s) processo(s) que serão resolvidos com a aplicação.
+### Processos que serão resolvidos com a aplicação:
 
-### Definir funcionalidades iniciais a serem desenvolvidas.
+**Gestão de processos judiciais:** organização, acompanhamento e controle de prazos.
+**Gestão de contratos e honorários:** controle financeiro e documental.
+**Comunicação com clientes:** registro e histórico de interações.
+**Monitoramento de atividades e conformidade com a LGPD.**
 
-### Criar um quadro-resumo com:
+### Funcionalidades iniciais a serem desenvolvidas:
+
+- Cadastro de clientes e processos
+- Agenda de prazos e audiências com alertas
+- Gestão de contratos e honorários
+- Histórico de comunicações com o cliente
+- Relatórios jurídicos e financeiros
+- Controle de acesso por perfil
+- Política de privacidade e consentimento
+- Criptografia de dados
+
+### Quadro-resumo:
+
+
 
 - Problema mapeado | Solução proposta | Como será resolvida no sistema
 
