@@ -4,7 +4,7 @@
 
 ### Processos que serão resolvidos com a aplicação:
 
-**- Gestão de processos judiciais:** organização, acompanhamento e controle de prazos.<br/>
+**+ Gestão de processos judiciais:** organização, acompanhamento e controle de prazos.<br/>
 **- Gestão de contratos e honorários:** controle financeiro e documental.<br/>
 **- Comunicação com clientes:** registro e histórico de interações.<br/>
 **- Monitoramento de atividades e conformidade com a LGPD.**<br/>
