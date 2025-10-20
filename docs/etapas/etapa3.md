@@ -222,7 +222,7 @@ Detalha as ações do advogado para consultar e gerir os dados dos clientes e do
 </p>
 
 <p align="center">
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/173a2a85-8923-4b4f-b8b6-a6ab80e99790" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/22a5de2e-3e11-4483-9ef1-b212388fdcd7" />
 </p>
 
 
