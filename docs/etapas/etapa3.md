@@ -125,6 +125,9 @@ Para o desenvolvimento deste projeto, foi selecionado um conjunto de tecnologias
 <strong>Drizzle ORM:</strong> ORM moderno e tipado para TypeScript. Facilita criar e consultar tabelas no PostgreSQL (ou outros bancos). </p>
 
 <p align="justify">
+<strong>Drizzle Kit Studio:</strong> interface visual do Drizzle ORM que facilita a visualização, edição e gerenciamento do banco de dados diretamente no navegador. </p>
+
+<p align="justify">
 <strong>PostgreSQL:</strong> banco relacional usado para persistir dados (tabelas como procedure_stage, users, etc.). </p>
 
 <p align="justify">
@@ -132,6 +135,9 @@ Para o desenvolvimento deste projeto, foi selecionado um conjunto de tecnologias
 
 <p align="justify">
 <strong>JWT + Fastify plugin:</strong> middleware usado para proteger rotas e validar usuários logados. </p>
+
+<p align="justify">
+<strong>Docker:</strong> plataforma que permite criar, implantar e executar aplicações em containers, garantindo que o ambiente de desenvolvimento e execução seja padronizado e isolado. </p>
 
 ### Diagramas de caso de uso
 
