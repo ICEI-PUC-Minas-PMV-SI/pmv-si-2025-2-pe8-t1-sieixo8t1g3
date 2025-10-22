@@ -85,17 +85,35 @@ Os requisitos não funcionais determinam critérios de desempenho, segurança, u
 <p align="justify">
 Para o desenvolvimento deste projeto, foi selecionado um conjunto de tecnologias modernas e consolidadas no mercado, visando garantir uma aplicação robusta, segura e de alta performance. As ferramentas, bibliotecas e frameworks listados a seguir foram escolhidos para compor a arquitetura do front-end e do back-end, assegurando escalabilidade e manutenibilidade a longo prazo.</p>
 
-#### Frontend
-
--  Figma: é uma ferramenta de design de interfaces (UI) e experiência do usuário (UX) baseada na nuvem.
+### Frontend
+<p align="justify">
+<strong>Figma:</strong> é uma ferramenta de design de interfaces (UI) e experiência do usuário (UX) baseada na nuvem.
   
-    (Figma [Juris Fácil](https://www.figma.com/make/ITWz72V2wtKo2NnZ1Y6y5w/P%C3%A1gina-Inicial-JURIS-F%C3%81CIL--c%C3%B3pia-?node-id=0-1&p=f))
+<a href="https://www.figma.com/make/ITWz72V2wtKo2NnZ1Y6y5w/P%C3%A1gina-Inicial-JURIS-F%C3%81CIL--c%C3%B3pia-?node-id=0-1&p=f">Figma Juris Fácil.</a>
+</p>
 
--  Excalidraw: é um quadro branco virtual (whiteboard), de código-aberto e baseado em navegador, voltado para desenho livre de diagramas, esquemas, esboços e fluxos com visual “à mão” (hand-drawn).
-  
-    (Excalidraw [Juris Fácil](https://excalidraw.com/#json=tUmKUvQhMW4q7mVsOuLbB,YSAJezME_EeIg_19ld9TRQ))
+<p align="justify">
+<strong>Excalidraw:</strong> é um quadro branco virtual (whiteboard), de código-aberto e baseado em navegador, voltado para desenho livre de diagramas, esquemas, esboços e fluxos com visual “à mão” (hand-drawn).
 
-#### Backend
+<a href="https://excalidraw.com/#json=tUmKUvQhMW4q7mVsOuLbB,YSAJezME_EeIg_19ld9TRQ">Excalidraw Juris Fácil.</a>
+</p> 
+
+<p align="justify">
+<strong>React + TypeScript + SWC (via Vite):</strong> o projeto foi desenvolvido utilizando React, uma biblioteca JavaScript para construção de interfaces de usuário, em conjunto com TypeScript, que adiciona tipagem estática ao código, garantindo maior segurança e manutenção. O SWC é o compilador de alta performance usado pelo Vite para otimizar o build e o tempo de execução da aplicação.</p>
+
+<p align="justify">
+<strong>TailwindCSS + PostCSS + Autoprefixer:</strong> o TailwindCSS é um framework CSS utilitário que permite criar interfaces modernas de forma rápida e consistente. O PostCSS é uma ferramenta que processa o CSS e aplica transformações automáticas, enquanto o Autoprefixer adiciona automaticamente prefixos para compatibilidade entre diferentes navegadores.</p>
+
+<p align="justify">
+<strong>Shadcn UI + Radix UI + Lucide:</strong> a aplicação utiliza o Shadcn UI, um conjunto de componentes pré-construídos e estilizados com Tailwind, baseados no Radix UI, que fornece componentes acessíveis e de baixo nível. Ícones vetoriais são fornecidos pelo Lucide, garantindo uma interface consistente e moderna.</p>
+
+<p align="justify">
+<strong>React Hook Form + Zod:</strong> o React Hook Form é utilizado para o gerenciamento eficiente de formulários e validação de dados, enquanto o Zod fornece um esquema de validação tipado que garante segurança e consistência nos dados enviados pelo usuário.</p>
+
+<p align="justify">
+<strong>Recharts, Embla e Sonner:</strong> o Recharts é utilizado para renderização de gráficos interativos e responsivos, o Embla para criação de carrosséis e sliders dinâmicos, e o Sonner para exibição de notificações e feedbacks visuais na interface.</p>
+
+### Backend
 
 ### Diagramas de caso de uso
 
