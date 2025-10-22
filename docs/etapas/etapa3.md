@@ -115,6 +115,24 @@ Para o desenvolvimento deste projeto, foi selecionado um conjunto de tecnologias
 
 ### Backend
 
+<p align="justify">
+<strong>Node.js:</strong> é o servidor do backend que proporciona um ambiente de execução JavaScript fora do navegador. </p>
+
+<p align="justify">
+<strong>Fastify:</strong> framework HTTP leve e rápido para criar APIs REST. </p>
+
+<p align="justify">
+<strong>Drizzle ORM:</strong> ORM moderno e tipado para TypeScript. Facilita criar e consultar tabelas no PostgreSQL (ou outros bancos). </p>
+
+<p align="justify">
+<strong>PostgreSQL:</strong> banco relacional usado para persistir dados (tabelas como procedure_stage, users, etc.). </p>
+
+<p align="justify">
+<strong>Zod:</strong> biblioteca TypeScript para validar e tipar os dados recebidos (ex: corpo de requisições, parâmetros). </p>
+
+<p align="justify">
+<strong>JWT + Fastify plugin:</strong> middleware usado para proteger rotas e validar usuários logados. </p>
+
 ### Diagramas de caso de uso
 
 #### - Caso de Uso 1: Gestão de Clientes
