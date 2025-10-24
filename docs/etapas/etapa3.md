@@ -37,16 +37,13 @@
 | :--- | :--- | :--- | :--- |
 | HU01 | advogado | cadastrar clientes com dados padronizados e validados | garantir consistência nas informações e facilitar a comunicação futura. |
 | HU02 | gestor | visualizar relatórios segmentados por tipo de cliente (pessoa física/jurídica, demanda, recorrência) | entender o perfil dos atendimentos e otimizar a prospecção. |
-| HU03 | advogado | personalizar as comunicações com base no perfil e histórico do cliente | aumentar o engajamento e melhorar o relacionamento. |
-| HU04 | advogado | registrar e acompanhar o andamento dos processos em tempo real | monitorar prazos e evitar perdas de prazo processual. |
-| HU05 | gestor jurídico | consultar rapidamente o status, a instância e o tribunal de cada processo | analisar a distribuição das causas e tomar decisões estratégicas. |
-| HU06 | gestor financeiro | registrar honorários, despesas adicionais e valores de sucumbência em um só lugar | controlar a receita e entender a rentabilidade por contrato. |
-| HU07 | gestor | visualizar a receita total e por tipo de contrato em dashboards | acompanhar a sustentabilidade financeira do escritório. |
-| HU08 | advogado | ter um histórico centralizado de comunicação com cada cliente | consultar rapidamente o contexto de cada atendimento e garantir continuidade no relacionamento. |
-| HU09 | gestor | monitorar o percentual de processos por fase | identificar gargalos e priorizar recursos conforme a necessidade. |
-| HU10 | gestor | medir o tempo médio de atendimento por etapa do processo | avaliar a eficiência e implementar melhorias nos fluxos internos. |
-| HU11 | gestor | comparar a produtividade administrativa antes e depois da implantação do sistema | mensurar o impacto da solução Juris Fácil na rotina operacional. |
-| HU12 | sócio do escritório | analisar a taxa de sucesso processual (casos ganhos vs. perdidos) | avaliar o desempenho jurídico e fortalecer a reputação da empresa. |
+| HU03 | advogado | registrar e acompanhar o andamento dos processos em tempo real | monitorar prazos e evitar perdas de prazo processual. |
+| HU04 | gestor jurídico | consultar rapidamente o status, a instância e o tribunal de cada processo | analisar a distribuição das causas e tomar decisões estratégicas. |
+| HU05 | gestor financeiro | registrar honorários, despesas adicionais e valores de sucumbência em um só lugar | controlar a receita e entender a rentabilidade por contrato. |
+| HU06 | gestor | visualizar a receita total e por tipo de contrato em dashboards | acompanhar a sustentabilidade financeira do escritório. |
+| HU07 | advogado | ter um histórico centralizado de comunicação com cada cliente | consultar rapidamente o contexto de cada atendimento e garantir continuidade no relacionamento. |
+| HU08 | gestor | monitorar o percentual de processos por fase | identificar gargalos e priorizar recursos conforme a necessidade. |
+| HU9 | sócio do escritório | analisar a taxa de sucesso processual (casos ganhos vs. perdidos) | avaliar o desempenho jurídico e fortalecer a reputação da empresa. |
 
 ### Requisitos do Sistema
 
@@ -64,8 +61,7 @@ Os requisitos funcionais definem as funcionalidades que o sistema deve oferecer 
 | RF03 | Módulo de controle financeiro para registrar honorários, despesas e receitas por processo/contrato. | Alta |
 | RF04 | Geração de relatórios gerenciais e dashboards (perfil de clientes, status de processos, receita, etc.). | Alta |
 | RF05 | Histórico centralizado de comunicações e atividades relacionadas a cada cliente e processo. | Alta |
-| RF06 | Controle de acesso baseado em perfis de usuário (advogado, gestor, financeiro, sócio). | Alta |
-| RF07 | Ferramenta para medir e analisar indicadores de desempenho (KPIs), como taxa de sucesso e tempo por etapa. | Média |
+| RF06 | Controle de acesso baseado em perfis de usuário (advogado e administrador). | Alta |
 
 #### Requisitos Não Funcionais
 <p align="justify">
@@ -74,7 +70,7 @@ Os requisitos não funcionais determinam critérios de desempenho, segurança, u
 | ID | Descrição do Requisito | Prioridade |
 | :--- | :--- | :--- |
 | RNF01 | O sistema deve garantir a segurança e a confidencialidade das informações dos clientes e processos. | Alta |
-| RNF02 | O sistema deve ter alta disponibilidade, garantindo acesso durante o horário de expediente. | Alta |
+| RNF02 | O sistema deve ter alta disponibilidade com padrão UpTime no mínimo de 99,99% . | Alta |
 | RNF03 | A interface do sistema deve ser intuitiva e de fácil utilização (boa usabilidade). | Alta |
 | RNF04 | O sistema deve garantir a integridade dos dados, com validações e backups automáticos. | Alta |
 | RNF05 | As consultas e a geração de relatórios devem ser processadas em tempo hábil (bom desempenho). | Alta |
@@ -195,7 +191,7 @@ Mostra como os advogados podem extrair informações estratégicas sobre cliente
 </p>
 
 <p align="justify">
-<strong>Descrição:</strong> O sistema permite a visualização de diversos relatórios para análise de desempenho, perfil de clientes e saúde financeira do escritório. Ele permite a visualização de número de cliente vadastrados no sistema, número total de processos e destaca os que têm prioridade urgente e alta, apresenta o valor total de honorários em contrayos ativos, informa sobre prazos que vencem nos próximos dias para evitar atrasos, exibe gráfico com a distribuição dos processos por status e mostra gráfico com a quantidade de processos em cada fase. </p>
+<strong>Descrição:</strong> O sistema permite a visualização de diversos relatórios para análise de desempenho, perfil de clientes e saúde financeira do escritório. Ele permite a visualização de número de cliente cadastrados no sistema, número total de processos e destaca os que têm prioridade urgente e alta, apresenta o valor total de honorários em contratos ativos, informa sobre prazos que vencem nos próximos dias para evitar atrasos, exibe gráfico com a distribuição dos processos por status e mostra gráfico com a quantidade de processos em cada fase. </p>
 
 <p align="center">
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/8e5742f5-1b9a-408f-b263-e846165c3b08" />
@@ -260,7 +256,7 @@ Detalha as ações do advogado para consultar e gerir os dados dos clientes e do
 </p>
 
 <p align="justify">
-<strong>Descrição:</strong> Permite visualizar uma lista com os clientes cadastrados e seus dados, exibe uma lista de processos cadastrados e e seus dados, permite buscar clientes por nome, documento ou e-mail, e processos por número, cliente ou tipo de ação, exporta o relatório em formato csv, ao clicar no "olhinho", na linha de um cliente, exibe um pop-up com os dados básicos do cliente e informações processuais e ao clicar em "ações", o sistema redireciona para a tela de edição do cliente ou processo correspondente . 
+<strong>Descrição:</strong> Permite visualizar uma lista com os clientes e de processos cadastrados e seus dados, permite buscar clientes por nome, documento ou e-mail, e processos por número, cliente ou tipo de ação, exporta o relatório em formato csv, ao clicar no "olhinho", na linha de um cliente, exibe um pop-up com os dados básicos do cliente e informações processuais e ao clicar em "ações", o sistema redireciona para a tela de edição do cliente ou processo correspondente. 
 </p>
 
 <p align="center">
