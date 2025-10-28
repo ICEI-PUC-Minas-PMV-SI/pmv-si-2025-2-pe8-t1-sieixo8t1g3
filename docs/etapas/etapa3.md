@@ -263,5 +263,27 @@ Detalha as ações do advogado para consultar e gerir os dados dos clientes e do
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/22a5de2e-3e11-4483-9ef1-b212388fdcd7" />
 </p>
 
+#### - Caso de Uso 7: Gestão de usuários
+
+<p align="justify">
+Detalha as ações do administrador para consultar e gerir os dados dos usuários do sistema.
+</p>
+
+<p align="justify">
+<strong>Ator:</strong> Advogado, assistente jurídico ou administrador (representados como "Usuário do Sistema").
+</p>
+
+<p align="justify">
+<strong>Ator:</strong> Sistema (representados como "Sistema").
+</p>
+
+<p align="justify">
+<strong>Descrição:</strong> O adminitrador pode cadastrar usuários, consultar, editar e excluir os dados do usuários. O sistema valida os dados para garantir a consistência.
+</p>
+
+<p align="center">
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/09899f52-e115-495f-9b1a-81011e60f3e2" />
+</p>
+
 
 ### Desenvolver esboço do banco de dados (modelo ER).
