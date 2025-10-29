@@ -38,12 +38,12 @@
 | HU01 | advogado | cadastrar clientes com dados padronizados e validados | garantir consistência nas informações e facilitar a comunicação futura. |
 | HU02 | administrador | visualizar relatórios segmentados por tipo de cliente (pessoa física/jurídica, demanda, recorrência) | entender o perfil dos atendimentos e otimizar a prospecção. |
 | HU03 | advogado | registrar e acompanhar o andamento dos processos em tempo real | monitorar prazos e evitar perdas de prazo processual. |
-| HU04 | administrador jurídico | consultar rapidamente o status, a instância e o tribunal de cada processo | analisar a distribuição das causas e tomar decisões estratégicas. |
-| HU05 | administrador financeiro| registrar honorários, despesas adicionais e valores de sucumbência em um só lugar | controlar a receita e entender a rentabilidade por contrato. |
+| HU04 | administrador | consultar rapidamente o status, a instância e o tribunal de cada processo | analisar a distribuição das causas e tomar decisões estratégicas. |
+| HU05 | administrador| registrar honorários, despesas adicionais e valores de sucumbência em um só lugar | controlar a receita e entender a rentabilidade por contrato. |
 | HU06 | administrador | visualizar a receita total e por tipo de contrato em dashboards | acompanhar a sustentabilidade financeira do escritório. |
 | HU07 | advogado | ter um histórico centralizado de comunicação com cada cliente | consultar rapidamente o contexto de cada atendimento e garantir continuidade no relacionamento. |
 | HU08 | administrador | monitorar o percentual de processos por fase | identificar gargalos e priorizar recursos conforme a necessidade. |
-| HU9 | sócio do escritório | analisar a taxa de sucesso processual (casos ganhos vs. perdidos) | avaliar o desempenho jurídico e fortalecer a reputação da empresa. |
+| HU9 | advogado | analisar a taxa de sucesso processual (casos ganhos vs. perdidos) | avaliar o desempenho jurídico e fortalecer a reputação da empresa. |
 
 ### Requisitos do Sistema
 
@@ -142,7 +142,7 @@ Para o desenvolvimento deste projeto, foi selecionado um conjunto de tecnologias
 Este diagrama descreve as interações do usuário para gerenciar os dados dos clientes do escritório.
 
 <p align="justify">
-<strong>Ator:</strong> Advogado, assistente jurídico ou administrador (representados como "Usuário do Sistema").
+<strong>Ator:</strong> Advogado ou administrador (representados como "Usuário do Sistema").
 </p>
 
 <p align="justify">
@@ -163,7 +163,7 @@ Este diagrama descreve as interações do usuário para gerenciar os dados dos c
 Descreve como os advogados gerenciam os processos jurídicos dentro do sistema.
 
 <p align="justify">
-<strong>Ator:</strong> Advogado, assistente jurídico ou administrador (representados como "Usuário do Sistema").
+<strong>Ator:</strong> Advogado ou administrador (representados como "Usuário do Sistema").
 </p>
 
 <p align="justify">
@@ -183,7 +183,7 @@ Descreve como os advogados gerenciam os processos jurídicos dentro do sistema.
 Mostra como os advogados podem extrair informações estratégicas sobre clientes, processos e contratos para tomada de decisão por meio de relatórios.
 
 <p align="justify">
-<strong>Ator:</strong> Advogado, assistente jurídico ou administrador (representados como "Usuário do Sistema").
+<strong>Ator:</strong> Advogado ou administrador (representados como "Usuário do Sistema").
 </p>
 
 <p align="justify">
@@ -204,7 +204,7 @@ Detalha as ações do advogado para visualizar e filtrar os prazos processuais e
 </p>
 
 <p align="justify">
-<strong>Ator:</strong> Advogado, assistente jurídico ou administrador (representados como "Usuário do Sistema").
+<strong>Ator:</strong> Advogado ou administrador (representados como "Usuário do Sistema").
 </p>
 
 <p align="justify">
@@ -226,7 +226,7 @@ Detalha as ações do advogado para gerir os contratos dos clientes.
 </p>
 
 <p align="justify">
-<strong>Ator:</strong> Advogado, assistente jurídico ou administrador (representados como "Usuário do Sistema").
+<strong>Ator:</strong> Advogado ou administrador (representados como "Usuário do Sistema").
 </p>
 
 <p align="justify">
@@ -248,7 +248,7 @@ Detalha as ações do advogado para consultar e gerir os dados dos clientes e do
 </p>
 
 <p align="justify">
-<strong>Ator:</strong> Advogado, assistente jurídico ou administrador (representados como "Usuário do Sistema").
+<strong>Ator:</strong> Advogado ou administrador (representados como "Usuário do Sistema").
 </p>
 
 <p align="justify">
@@ -270,7 +270,7 @@ Detalha as ações do administrador para consultar e gerir os dados dos usuário
 </p>
 
 <p align="justify">
-<strong>Ator:</strong> Advogado, assistente jurídico ou administrador (representados como "Usuário do Sistema").
+<strong>Ator:</strong> Advogado ou administrador (representados como "Usuário do Sistema").
 </p>
 
 <p align="justify">
