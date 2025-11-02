@@ -157,6 +157,10 @@ Este diagrama descreve as interações do usuário para gerenciar os dados dos c
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/20e8d9af-65bd-4333-a07d-d14a7b374253" />
 </p>
 
+<p align="center">
+Figura 1 – Caso de Uso 1: Gestão de Clientes
+</p>
+
 
 #### - Caso de Uso 2: Gestão de Processos
 
@@ -178,6 +182,10 @@ Descreve como os advogados gerenciam os processos jurídicos dentro do sistema.
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/b8e660aa-b965-43c1-bd3a-46f68019d21b" />
 </p>
 
+<p align="center">
+Figura 2 – Caso de Uso 2: Gestão de Processos
+</p>
+
 #### - Caso de Uso 3: Geração de Relatórios e Dashboards
 
 Mostra como os advogados podem extrair informações estratégicas sobre clientes, processos e contratos para tomada de decisão por meio de relatórios.
@@ -195,6 +203,10 @@ Mostra como os advogados podem extrair informações estratégicas sobre cliente
 
 <p align="center">
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/8e5742f5-1b9a-408f-b263-e846165c3b08" />
+</p>
+
+<p align="center">
+Figura 3 – Caso de Uso 3: Geração de Relatórios e Dashboards
 </p>
 
 #### - Caso de Uso 4: Acompanhamento de Prazos Processuais e Audiências
@@ -219,6 +231,10 @@ Detalha as ações do advogado para visualizar e filtrar os prazos processuais e
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/2cd8c50a-d9ca-4d84-97bf-7615e69951e1" />
 </p>
 
+<p align="center">
+Figura 4 – Caso de Uso 4: Acompanhamento de Prazos Processuais e Audiências
+</p>
+
 #### - Caso de Uso 5: Gestão de Contratos de Honorários
 
 <p align="justify">
@@ -239,6 +255,10 @@ Detalha as ações do advogado para gerir os contratos dos clientes.
 
 <p align="center">
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/4c9719b1-f6ee-4999-87a0-dc3e2bbb87f3" />
+</p>
+
+<p align="center">
+Figura 5 – Caso de Uso 5: Gestão de Contratos de Honorários
 </p>
 
 #### - Caso de Uso 6: Relatórios do Sistema
@@ -263,6 +283,10 @@ Detalha as ações do advogado para consultar e gerir os dados dos clientes e do
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/22a5de2e-3e11-4483-9ef1-b212388fdcd7" />
 </p>
 
+<p align="center">
+Figura 6 – Caso de Uso 6: Relatórios do Sistema
+</p>
+
 #### - Caso de Uso 7: Gestão de usuários
 
 <p align="justify">
@@ -285,5 +309,135 @@ Detalha as ações do administrador para consultar e gerir os dados dos usuário
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/09899f52-e115-495f-9b1a-81011e60f3e2" />
 </p>
 
+<p align="center">
+Figura 7 – Caso de Uso 7: Gestão de usuários
+</p>
+
+### Interface do sistema
+
+#### Tela inicial antes do login
+
+<p align="center">
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/d590b1d7-13d7-4f76-9b3d-a99de6b33b3f" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/5e0e0fc3-ad84-488a-9b8b-9a7d60843e21" />
+</p>
+
+<p align="center">
+Figura 10 – Tela inicial antes do login
+</p>
+
+#### Tela de login
+
+<p align="center">
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/f04d36c6-be9b-43a8-a91b-d3779e1f8422" />
+</p>
+
+<p align="center">
+Figura 11 –  Tela de login
+</p>
+
+#### Tela inicial após login
+
+<p align="center">
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/904200e5-073c-478a-a2dc-1824a941f31b" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/fe95ace1-9d97-4ec7-8f4d-5c4ea631c642" />
+</p>
+
+<p align="center">
+Figura 12 –  Tela inicial após login
+</p>
+
+#### Tela Gestão de clientes
+
+<p align="center">
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/786ce327-8487-4f8f-82b7-7460a77a78cc" />
+</p>
+
+<p align="center">
+Figura 13 –  Tela Gestão de clientes
+</p>
+
+#### Tela Gestão de processos
+
+<p align="center">
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/33f0bdd3-1d86-4564-9fc3-9f4c4b8d5b4c" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/f1595244-a73a-48ad-895f-f07f778d4392" />
+</p>
+
+<p align="center">
+Figura 14 –  Tela Gestão de processos
+</p>
+
+#### Tela Gestão de processos
+
+<p align="center">
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/9aee73ab-81ff-4899-bf3a-b13d9bc2810f" />
+</p>
+
+<p align="center">
+Figura 15 –  Tela Gestão de processos
+</p>
+
+#### Tela Prazos e Audiências
+
+<p align="center">
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/383415a9-8fd8-4728-b0e9-4b8f2ccd586f" />
+</p>
+
+<p align="center">
+Figura 16 –  Tela Prazos e Audiências
+</p>
+
+#### Tela Contratos de Honorários
+
+<p align="center">
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/f748442b-d36b-41dc-8916-4a9cfb4929a7" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/4930ab12-da7d-4f9c-967c-0f8a8536b838" />
+</p>
+
+<p align="center">
+Figura 17 –  Tela Contratos de Honorários
+</p>
+
+#### Tela Relatórios
+
+<p align="center">
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/21c2080a-17de-4d24-ab57-b7682dc65198" />
+</p>
+
+<p align="center">
+Figura 18 –  Tela Relatórios
+</p>
+
+#### Tela Usuários
+
+<p align="center">
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/d7628a9d-9a77-4212-90ff-f6fcefb4ace7" />
+</p>
+
+<p align="center">
+Figura 19 –  Tela Usuários
+</p>
+
+#### Tela Dashboard
+
+<p align="center">
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/a84e3676-24cb-4f0a-a834-a0f87aa067eb" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/57b796e7-98d7-43f1-9117-ee9858254917" />
+</p>
+
+<p align="center">
+Figura 20 –  Tela Dashboard
+</p>
+
+#### Tela Suporte
+
+<p align="center">
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/377e8bf5-afb7-4ad8-99db-47ed9e493d4d" />
+</p>
+
+<p align="center">
+Figura 21 –  Tela Suporte
+</p>
 
 ### Desenvolver esboço do banco de dados (modelo ER).
