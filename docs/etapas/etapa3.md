@@ -358,11 +358,11 @@ Mostra como os advogados podem extrair informações estratégicas sobre cliente
 <strong>Descrição:</strong> O sistema permite a visualização de diversos relatórios para análise de desempenho, perfil de clientes e saúde financeira do escritório. Ele permite a visualização de número de cliente cadastrados no sistema, número total de processos e destaca os que têm prioridade urgente e alta, apresenta o valor total de honorários em contratos ativos, informa sobre prazos que vencem nos próximos dias para evitar atrasos, exibe gráfico com a distribuição dos processos por status e mostra gráfico com a quantidade de processos em cada fase. </p>
 
 <p align="center">
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/8e5742f5-1b9a-408f-b263-e846165c3b08" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/c84d4aa7-e618-4a36-9fb7-4164ec78e9c8" />
 </p>
 
 <p align="center">
-Figura 9 – Caso de Uso 9: Geração de Relatórios e Dashboards
+Figura 9 – Caso de Uso 9: Dashboard - Visão Geral
 </p>
 
 #### - Caso de Uso 10: Suporte
