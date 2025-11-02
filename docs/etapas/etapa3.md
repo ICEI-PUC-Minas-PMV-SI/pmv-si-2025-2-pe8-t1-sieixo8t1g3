@@ -137,7 +137,59 @@ Para o desenvolvimento deste projeto, foi selecionado um conjunto de tecnologias
 
 ### Diagramas de caso de uso
 
-#### - Caso de Uso 1: Gestão de Clientes
+#### - Caso de Uso 1: Tela inicial antes do login
+
+<p align="justify">
+Este diagrama descreve as interações do usuário para acessar a tela de login no sistema <strong>Juris Fácil</strong>.
+</p>
+  
+<p align="justify">
+<strong>Ator:</strong> Advogado ou administrador (representados como "Usuário do Sistema").
+</p>
+
+<p align="justify">
+<strong>Ator:</strong> Sistema (representados como "Sistema").
+</p>
+
+<p align="justify">
+<strong>Descrição:</strong> O usuário pode clicar no botão de "Acessar Sistema" para ser direcionado para a tela de login na plataforma.
+</p>
+
+<p align="center">
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/1713b786-9fc7-4139-9e80-0acb2d365017" />
+</p>
+
+<p align="center">
+Figura 1 – Caso de Uso 1:  Tela inicial antes do login
+</p>
+
+#### - Caso de Uso 2: Tela de login
+
+<p align="justify">
+Este diagrama descreve as interações do usuário para realizar o login no sistema <strong>Juris Fácil</strong> e também para voltar a tela inicial antes do login.
+</p>
+  
+<p align="justify">
+<strong>Ator:</strong> Advogado ou administrador (representados como "Usuário do Sistema").
+</p>
+
+<p align="justify">
+<strong>Ator:</strong> Sistema (representados como "Sistema").
+</p>
+
+<p align="justify">
+<strong>Descrição:</strong> O usuário pode digitar o usuário e a senha do sistema e clicar no botão de "Entrar" para realizar o login na plataforma. Também pode clicar no botão "Voltar" para retonar à tela inicial antes do login.
+</p>
+
+<p align="center">
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/2840413f-8de7-4a5b-852c-3157a08974c4" />
+</p>
+
+<p align="center">
+Figura 2 – Caso de Uso 2: Tela de login
+</p>
+
+#### - Caso de Uso 3: Gestão de Clientes
 
 Este diagrama descreve as interações do usuário para gerenciar os dados dos clientes do escritório.
 
@@ -158,11 +210,11 @@ Este diagrama descreve as interações do usuário para gerenciar os dados dos c
 </p>
 
 <p align="center">
-Figura 1 – Caso de Uso 1: Gestão de Clientes
+Figura 3 – Caso de Uso 3: Gestão de Clientes
 </p>
 
 
-#### - Caso de Uso 2: Gestão de Processos
+#### - Caso de Uso 4: Gestão de Processos
 
 Descreve como os advogados gerenciam os processos jurídicos dentro do sistema.
 
@@ -183,33 +235,10 @@ Descreve como os advogados gerenciam os processos jurídicos dentro do sistema.
 </p>
 
 <p align="center">
-Figura 2 – Caso de Uso 2: Gestão de Processos
+Figura 4 – Caso de Uso 4: Gestão de Processos
 </p>
 
-#### - Caso de Uso 3: Geração de Relatórios e Dashboards
-
-Mostra como os advogados podem extrair informações estratégicas sobre clientes, processos e contratos para tomada de decisão por meio de relatórios.
-
-<p align="justify">
-<strong>Ator:</strong> Advogado ou administrador (representados como "Usuário do Sistema").
-</p>
-
-<p align="justify">
-<strong>Ator:</strong> Sistema (representados como "Sistema").
-</p>
-
-<p align="justify">
-<strong>Descrição:</strong> O sistema permite a visualização de diversos relatórios para análise de desempenho, perfil de clientes e saúde financeira do escritório. Ele permite a visualização de número de cliente cadastrados no sistema, número total de processos e destaca os que têm prioridade urgente e alta, apresenta o valor total de honorários em contratos ativos, informa sobre prazos que vencem nos próximos dias para evitar atrasos, exibe gráfico com a distribuição dos processos por status e mostra gráfico com a quantidade de processos em cada fase. </p>
-
-<p align="center">
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/8e5742f5-1b9a-408f-b263-e846165c3b08" />
-</p>
-
-<p align="center">
-Figura 3 – Caso de Uso 3: Geração de Relatórios e Dashboards
-</p>
-
-#### - Caso de Uso 4: Acompanhamento de Prazos Processuais e Audiências
+#### - Caso de Uso 5: Acompanhamento de Prazos Processuais e Audiências
 
 <p align="justify">
 Detalha as ações do advogado para visualizar e filtrar os prazos processuais e audiências por categoria (vencidos, hoje, próximos 7 dias, futuros), com opção de limpar os filtros e retornar à visão geral.
@@ -232,10 +261,10 @@ Detalha as ações do advogado para visualizar e filtrar os prazos processuais e
 </p>
 
 <p align="center">
-Figura 4 – Caso de Uso 4: Acompanhamento de Prazos Processuais e Audiências
+Figura 5 – Caso de Uso 5: Acompanhamento de Prazos Processuais e Audiências
 </p>
 
-#### - Caso de Uso 5: Gestão de Contratos de Honorários
+#### - Caso de Uso 6: Gestão de Contratos de Honorários
 
 <p align="justify">
 Detalha as ações do advogado para gerir os contratos dos clientes.
@@ -258,10 +287,10 @@ Detalha as ações do advogado para gerir os contratos dos clientes.
 </p>
 
 <p align="center">
-Figura 5 – Caso de Uso 5: Gestão de Contratos de Honorários
+Figura 6 – Caso de Uso 6: Gestão de Contratos de Honorários
 </p>
 
-#### - Caso de Uso 6: Relatórios do Sistema
+#### - Caso de Uso 7: Relatórios do Sistema
 
 <p align="justify">
 Detalha as ações do advogado para consultar e gerir os dados dos clientes e dos processos dos clientes.
@@ -284,10 +313,10 @@ Detalha as ações do advogado para consultar e gerir os dados dos clientes e do
 </p>
 
 <p align="center">
-Figura 6 – Caso de Uso 6: Relatórios do Sistema
+Figura 7 – Caso de Uso 7: Relatórios do Sistema
 </p>
 
-#### - Caso de Uso 7: Gestão de usuários
+#### - Caso de Uso 8: Gestão de usuários
 
 <p align="justify">
 Detalha as ações do administrador para consultar e gerir os dados dos usuários do sistema.
@@ -310,7 +339,53 @@ Detalha as ações do administrador para consultar e gerir os dados dos usuário
 </p>
 
 <p align="center">
-Figura 7 – Caso de Uso 7: Gestão de usuários
+Figura 8 – Caso de Uso 8: Gestão de usuários
+</p>
+
+#### - Caso de Uso 9: Dashboard - Visão Geral
+
+Mostra como os advogados podem extrair informações estratégicas sobre clientes, processos e contratos para tomada de decisão por meio de relatórios.
+
+<p align="justify">
+<strong>Ator:</strong> Advogado ou administrador (representados como "Usuário do Sistema").
+</p>
+
+<p align="justify">
+<strong>Ator:</strong> Sistema (representados como "Sistema").
+</p>
+
+<p align="justify">
+<strong>Descrição:</strong> O sistema permite a visualização de diversos relatórios para análise de desempenho, perfil de clientes e saúde financeira do escritório. Ele permite a visualização de número de cliente cadastrados no sistema, número total de processos e destaca os que têm prioridade urgente e alta, apresenta o valor total de honorários em contratos ativos, informa sobre prazos que vencem nos próximos dias para evitar atrasos, exibe gráfico com a distribuição dos processos por status e mostra gráfico com a quantidade de processos em cada fase. </p>
+
+<p align="center">
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/8e5742f5-1b9a-408f-b263-e846165c3b08" />
+</p>
+
+<p align="center">
+Figura 9 – Caso de Uso 9: Geração de Relatórios e Dashboards
+</p>
+
+#### - Caso de Uso 10: Suporte
+
+Mostra como o usuário podem entrar em contato com o time de suporte do sistema para realizar alguma solicitação ou pergunta.
+
+<p align="justify">
+<strong>Ator:</strong> Advogado ou administrador (representados como "Usuário do Sistema").
+</p>
+
+<p align="justify">
+<strong>Ator:</strong> Sistema (representados como "Sistema").
+</p>
+
+<p align="justify">
+<strong>Descrição:</strong> O sistema apresenta para o usuário duas opções para solicitação de suporte. Ao clicar no botão "Entrar em Contato via WhatsApp", o usuário é direcionado para o grupo de WhatsApp do sistema. Ao clicar botão de "Enviar E-mail", o usuário é direcionado para sua Caixa de E-mail. É possível também voltar à tela inicial clicando no botão "Página Inicial" </p>
+
+<p align="center">
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/dacf35d0-bf78-481c-af6e-88c4c2dc911c" />
+</p>
+
+<p align="center">
+Figura 10 – Caso de Uso 10: Suporte
 </p>
 
 ### Interface do sistema
@@ -323,7 +398,7 @@ Figura 7 – Caso de Uso 7: Gestão de usuários
 </p>
 
 <p align="center">
-Figura 10 – Tela inicial antes do login
+Figura 11 – Tela inicial antes do login
 </p>
 
 #### Tela de login
@@ -333,7 +408,7 @@ Figura 10 – Tela inicial antes do login
 </p>
 
 <p align="center">
-Figura 11 –  Tela de login
+Figura 12 –  Tela de login
 </p>
 
 #### Tela inicial após login
@@ -344,7 +419,7 @@ Figura 11 –  Tela de login
 </p>
 
 <p align="center">
-Figura 12 –  Tela inicial após login
+Figura 13 –  Tela inicial após login
 </p>
 
 #### Tela Gestão de clientes
@@ -354,7 +429,7 @@ Figura 12 –  Tela inicial após login
 </p>
 
 <p align="center">
-Figura 13 –  Tela Gestão de clientes
+Figura 14 –  Tela Gestão de clientes
 </p>
 
 #### Tela Gestão de processos
@@ -365,7 +440,7 @@ Figura 13 –  Tela Gestão de clientes
 </p>
 
 <p align="center">
-Figura 14 –  Tela Gestão de processos
+Figura 15 –  Tela Gestão de processos
 </p>
 
 #### Tela Gestão de processos
@@ -375,7 +450,7 @@ Figura 14 –  Tela Gestão de processos
 </p>
 
 <p align="center">
-Figura 15 –  Tela Gestão de processos
+Figura 16 –  Tela Gestão de processos
 </p>
 
 #### Tela Prazos e Audiências
@@ -385,7 +460,7 @@ Figura 15 –  Tela Gestão de processos
 </p>
 
 <p align="center">
-Figura 16 –  Tela Prazos e Audiências
+Figura 17 –  Tela Prazos e Audiências
 </p>
 
 #### Tela Contratos de Honorários
@@ -396,7 +471,7 @@ Figura 16 –  Tela Prazos e Audiências
 </p>
 
 <p align="center">
-Figura 17 –  Tela Contratos de Honorários
+Figura 18 –  Tela Contratos de Honorários
 </p>
 
 #### Tela Relatórios
@@ -406,7 +481,7 @@ Figura 17 –  Tela Contratos de Honorários
 </p>
 
 <p align="center">
-Figura 18 –  Tela Relatórios
+Figura 19 –  Tela Relatórios
 </p>
 
 #### Tela Usuários
@@ -416,7 +491,7 @@ Figura 18 –  Tela Relatórios
 </p>
 
 <p align="center">
-Figura 19 –  Tela Usuários
+Figura 20 –  Tela Usuários
 </p>
 
 #### Tela Dashboard
@@ -427,7 +502,7 @@ Figura 19 –  Tela Usuários
 </p>
 
 <p align="center">
-Figura 20 –  Tela Dashboard
+Figura 21 –  Tela Dashboard
 </p>
 
 #### Tela Suporte
@@ -437,7 +512,7 @@ Figura 20 –  Tela Dashboard
 </p>
 
 <p align="center">
-Figura 21 –  Tela Suporte
+Figura 22 –  Tela Suporte
 </p>
 
 ### Desenvolver esboço do banco de dados (modelo ER).
