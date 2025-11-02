@@ -443,16 +443,6 @@ Figura 14 –  Tela Gestão de clientes
 Figura 15 –  Tela Gestão de processos
 </p>
 
-#### Tela Gestão de processos
-
-<p align="center">
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/9aee73ab-81ff-4899-bf3a-b13d9bc2810f" />
-</p>
-
-<p align="center">
-Figura 16 –  Tela Gestão de processos
-</p>
-
 #### Tela Prazos e Audiências
 
 <p align="center">
@@ -460,7 +450,7 @@ Figura 16 –  Tela Gestão de processos
 </p>
 
 <p align="center">
-Figura 17 –  Tela Prazos e Audiências
+Figura 16 –  Tela Prazos e Audiências
 </p>
 
 #### Tela Contratos de Honorários
@@ -471,7 +461,7 @@ Figura 17 –  Tela Prazos e Audiências
 </p>
 
 <p align="center">
-Figura 18 –  Tela Contratos de Honorários
+Figura 17 –  Tela Contratos de Honorários
 </p>
 
 #### Tela Relatórios
@@ -481,7 +471,7 @@ Figura 18 –  Tela Contratos de Honorários
 </p>
 
 <p align="center">
-Figura 19 –  Tela Relatórios
+Figura 18 –  Tela Relatórios
 </p>
 
 #### Tela Usuários
@@ -491,7 +481,7 @@ Figura 19 –  Tela Relatórios
 </p>
 
 <p align="center">
-Figura 20 –  Tela Usuários
+Figura 19 –  Tela Usuários
 </p>
 
 #### Tela Dashboard
@@ -502,7 +492,7 @@ Figura 20 –  Tela Usuários
 </p>
 
 <p align="center">
-Figura 21 –  Tela Dashboard
+Figura 20 –  Tela Dashboard
 </p>
 
 #### Tela Suporte
@@ -512,7 +502,7 @@ Figura 21 –  Tela Dashboard
 </p>
 
 <p align="center">
-Figura 22 –  Tela Suporte
+Figura 21 –  Tela Suporte
 </p>
 
 ### Desenvolver esboço do banco de dados (modelo ER).
