@@ -505,4 +505,8 @@ Figura 20 –  Tela Dashboard
 Figura 21 –  Tela Suporte
 </p>
 
-### Desenvolver esboço do banco de dados (modelo ER).
+### Esboço do modelo de dados (ER)
+
+<p align="center">
+<img width="2006" height="3166" alt="image" src="https://github.com/user-attachments/assets/bafa5cc2-4d01-4b0f-804a-f7b8c3fdb4ce" />
+</p>
