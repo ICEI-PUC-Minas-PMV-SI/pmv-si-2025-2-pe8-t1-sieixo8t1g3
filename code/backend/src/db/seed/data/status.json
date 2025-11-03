@@ -1,0 +1,52 @@
+[
+   {
+      "id":"284e10cb-e723-4b2d-8abc-c1ea61f76d1c",
+      "name":"Finalizado - procedente",
+      "active":true
+   },
+   {
+      "id":"29b2184d-023a-43a1-a17e-c169311bc6fc",
+      "name":"Finalizado - acordo",
+      "active":true
+   },
+   {
+      "id":"375491b4-8cd5-4da9-86f8-0aa9003e729e",
+      "name":"Em andamento",
+      "active":true
+   },
+   {
+      "id":"5f9a75cf-3b53-41ca-97e1-db46772e3232",
+      "name":"Finalizado - parcialmente procedente",
+      "active":true
+   },
+   {
+      "id":"6a967312-9ac5-4318-a361-94dff5e10b26",
+      "name":"Pendente de distribuição",
+      "active":true
+   },
+   {
+      "id":"88d22fd8-c6e1-421e-a31c-a56add1bc1f4",
+      "name":"Arquivado",
+      "active":true
+   },
+   {
+      "id":"ac716131-3839-4196-98ec-374898c9bff5",
+      "name":"Suspenso",
+      "active":true
+   },
+   {
+      "id":"b3ce4392-9243-482a-a9cd-4186af6fce6a",
+      "name":"Em elaboração",
+      "active":true
+   },
+   {
+      "id":"bd6cc98a-87ee-4fe5-9d14-6deb082ab9dc",
+      "name":"Finalizado - improcedente",
+      "active":true
+   },
+   {
+      "id":"d9a6c25e-8d4f-4b50-b582-d01abb3efddf",
+      "name":"Ativo",
+      "active":true
+   }
+]
