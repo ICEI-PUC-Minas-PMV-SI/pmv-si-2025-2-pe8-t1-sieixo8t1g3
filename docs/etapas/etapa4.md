@@ -81,7 +81,7 @@ Com base nas limitações identificadas e visando o crescimento futuro, as segui
 - Implementar a primeira fase do Portal do Cliente (Diretriz 3), focada na consulta de andamentos processuais.</p>
 
 <p align="justify"> 
-- Refinar o módulo financeiro com base no primeiro semestre de uso real.</p>
+- Refinar com o usuário, com base no primeiro semestre de uso real, para verificar possíveis ajustes no sistema.</p>
 
 <p align="justify"> 
 •	<strong>Longo Prazo (1 a 2 anos):</strong></p>
