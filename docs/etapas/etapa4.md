@@ -115,4 +115,25 @@ Para medir o sucesso do PETI e do sistema Juris Fácil, os seguintes indicadores
 
 ## 4.2 Auditoria e Governança de TI (para pequenas empresas)
 
+<p align="justify">
+A adoção de práticas de governança e auditoria de TI é essencial para garantir que os recursos tecnológicos estejam alinhados aos objetivos estratégicos do escritório de advocacia, mesmo em ambientes com estrutura reduzida. O sistema <strong>Juris Fácil</strong> foi concebido com base em modelos reconhecidos internacionalmente, como a norma <strong>ISO/IEC 38500</strong>, o framework <strong>COBIT</strong> e a norma <strong>ISO/IEC 27001</strong>, que oferecem diretrizes claras para a gestão responsável, segura e eficaz da tecnologia da informação.
+</p>
+
+### 4.2.1. Governança de TI baseada na norma ISO/IEC 38500
+
+<p align="justify">
+A <strong>ISO/IEC 38500</strong> estabelece princípios para a governança corporativa da TI, aplicáveis a organizações de todos os tamanhos, incluindo pequenos escritórios jurídicos. Seus seis princípios fundamentais são: responsabilidade, estratégia, aquisições, desempenho, conformidade e comportamento humano (ABNT, 2015). No <strong>Juris Fácil</strong>, esses princípios são aplicados por meio de funcionalidades como controle de acesso por perfil, gestão de riscos, planejamento estratégico de funcionalidades e monitoramento contínuo do sistema.
+</p>
+
+### 4.2.2. Aplicação do COBIT em escritórios de advocacia
+
+<p align="justify">
+O <strong>COBIT</strong> (Control Objectives for Information and Related Technologies) é um framework que orienta a governança e o gerenciamento da TI com foco em valor, risco e recursos. Mesmo em pequenos escritórios, o COBIT pode ser aplicado de forma simplificada, com foco nos seguintes princípios: alinhamento com os objetivos do negócio, cobertura ponta a ponta, governança holística e separação entre governança e gestão (ISACA, 2012). A aplicação do <strong>COBIT</strong> no <strong>Juris Fácil</strong> permite maior controle sobre os processos tecnológicos, melhor tomada de decisão e alinhamento com as metas do escritório.
+</p>
+
+### 4.2.3. Segurança e proteção de dados baseada na norma ISO/IEC 27001
+
+<p align="justify">
+A <strong>ISO/IEC 27001</strong> é a principal norma internacional para gestão da segurança da informação, sendo especialmente relevante para escritórios de advocacia que lidam com dados sensíveis. Ela estabelece um <strong>Sistema de Gestão de Segurança da Informação (SGSI)</strong> baseado em três pilares: confidencialidade, integridade e disponibilidade (ABNT, 2013). No <strong>Juris Fácil</strong>, a ISO/IEC 27001 é aplicada por meio de avaliação e tratamento de riscos, políticas de segurança da informação, controles técnicos e organizacionais e capacitação contínua. A adoção da <strong>ISO/IEC 27001</strong> fortalece a proteção dos dados jurídicos, aumenta a confiança dos clientes e assegura conformidade com a <strong>LGPD</strong> e demais normas aplicáveis.
+</p>
 
