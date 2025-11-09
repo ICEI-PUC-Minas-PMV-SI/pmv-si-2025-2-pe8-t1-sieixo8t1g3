@@ -144,7 +144,7 @@ A <strong>ISO/IEC 38500</strong> estabelece princípios para a governança corpo
 O <strong>COBIT</strong> (Control Objectives for Information and Related Technologies) é um framework que orienta a governança e o gerenciamento da TI com foco em valor, risco e recursos. Mesmo em pequenos escritórios, o COBIT pode ser aplicado de forma simplificada, com foco nos seguintes princípios:</p> 
 
 <p align="justify">
-•	<strong>CAlinhamento com os objetivos do negócio</strong> – O Juris Fácil é desenvolvido para atender às necessidades específicas da advocacia, como gestão de processos, segurança de dados e conformidade.</p>
+•	<strong>Alinhamento com os objetivos do negócio</strong> – O Juris Fácil é desenvolvido para atender às necessidades específicas da advocacia, como gestão de processos, segurança de dados e conformidade.</p>
 <p align="justify">
 •	<strong>Cobertura ponta a ponta</strong> – A governança de TI envolve todos os setores do escritório, desde a recepção até os advogados e gestores.</p>
 <p align="justify">
