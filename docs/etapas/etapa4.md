@@ -122,18 +122,63 @@ A adoção de práticas de governança e auditoria de TI é essencial para garan
 ### 4.2.1. Governança de TI baseada na norma ISO/IEC 38500
 
 <p align="justify">
-A <strong>ISO/IEC 38500</strong> estabelece princípios para a governança corporativa da TI, aplicáveis a organizações de todos os tamanhos, incluindo pequenos escritórios jurídicos. Seus seis princípios fundamentais são: responsabilidade, estratégia, aquisições, desempenho, conformidade e comportamento humano (ABNT, 2015). No <strong>Juris Fácil</strong>, esses princípios são aplicados por meio de funcionalidades como controle de acesso por perfil, gestão de riscos, planejamento estratégico de funcionalidades e monitoramento contínuo do sistema.
+A <strong>ISO/IEC 38500</strong> estabelece princípios para a governança corporativa da TI, aplicáveis a organizações de todos os tamanhos, incluindo pequenos escritórios jurídicos. Seus seis princípios fundamentais são:</p>
+
+<p align="justify">  
+1. <strong>Responsabilidade</strong> – Definição clara de quem toma decisões e responde pelo uso da TI.</p>
+<p align="justify">
+2. <strong>Estratégia</strong> – Alinhamento da TI com os objetivos do negócio jurídico.</p>
+<p align="justify">
+3. <strong>Aquisições</strong> – Investimentos tecnológicos devem ser justificados e sustentáveis.</p>
+<p align="justify">
+4. <strong>Desempenho</strong> – A TI deve atender às necessidades atuais e futuras do escritório.</p>
+<p align="justify">
+5. <strong>Conformidade</strong> – A TI deve estar em conformidade com leis e regulamentos, como a LGPD e o Código de Ética da OAB.</p>
+<p align="justify">
+6. <strong>Comportamento Humano</strong> – As decisões de TI devem respeitar os direitos e necessidades dos usuários.</p>
 </p>
 
 ### 4.2.2. Aplicação do COBIT em escritórios de advocacia
 
 <p align="justify">
-O <strong>COBIT</strong> (Control Objectives for Information and Related Technologies) é um framework que orienta a governança e o gerenciamento da TI com foco em valor, risco e recursos. Mesmo em pequenos escritórios, o COBIT pode ser aplicado de forma simplificada, com foco nos seguintes princípios: alinhamento com os objetivos do negócio, cobertura ponta a ponta, governança holística e separação entre governança e gestão (ISACA, 2012). A aplicação do <strong>COBIT</strong> no <strong>Juris Fácil</strong> permite maior controle sobre os processos tecnológicos, melhor tomada de decisão e alinhamento com as metas do escritório.
-</p>
+O <strong>COBIT</strong> (Control Objectives for Information and Related Technologies) é um framework que orienta a governança e o gerenciamento da TI com foco em valor, risco e recursos. Mesmo em pequenos escritórios, o COBIT pode ser aplicado de forma simplificada, com foco nos seguintes princípios:</p> 
+
+<p align="justify">
+•	<strong>CAlinhamento com os objetivos do negócio</strong> – O Juris Fácil é desenvolvido para atender às necessidades específicas da advocacia, como gestão de processos, segurança de dados e conformidade.</p>
+<p align="justify">
+•	<strong>Cobertura ponta a ponta</strong> – A governança de TI envolve todos os setores do escritório, desde a recepção até os advogados e gestores.</p>
+<p align="justify">
+•	<strong>Governança holística</strong> – Integra processos, estruturas, cultura organizacional e ética profissional.</p>
+<p align="justify">
+•	<strong>Separação entre governança e gestão</strong> – Os sócios do escritório definem diretrizes estratégicas, enquanto a equipe técnica executa e monitora as operações.</p> 
+
+<p align="justify">
+A aplicação do <strong>COBIT</strong> no <strong>Juris Fácil</strong> permite maior controle sobre os processos tecnológicos, melhor tomada de decisão e alinhamento com as metas do escritório.</p>
 
 ### 4.2.3. Segurança e proteção de dados baseada na norma ISO/IEC 27001
 
 <p align="justify">
-A <strong>ISO/IEC 27001</strong> é a principal norma internacional para gestão da segurança da informação, sendo especialmente relevante para escritórios de advocacia que lidam com dados sensíveis. Ela estabelece um <strong>Sistema de Gestão de Segurança da Informação (SGSI)</strong> baseado em três pilares: confidencialidade, integridade e disponibilidade (ABNT, 2013). No <strong>Juris Fácil</strong>, a ISO/IEC 27001 é aplicada por meio de avaliação e tratamento de riscos, políticas de segurança da informação, controles técnicos e organizacionais e capacitação contínua. A adoção da <strong>ISO/IEC 27001</strong> fortalece a proteção dos dados jurídicos, aumenta a confiança dos clientes e assegura conformidade com a <strong>LGPD</strong> e demais normas aplicáveis.
-</p>
+A <strong>ISO/IEC 27001</strong> é a principal norma internacional para gestão da segurança da informação, sendo especialmente relevante para escritórios de advocacia que lidam com dados sensíveis. Ela estabelece um <strong>Sistema de Gestão de Segurança da Informação (SGSI)</strong> baseado em três pilares:</p> 
+
+<p align="justify">
+•	<strong>Confidencialidade</strong> – Proteção contra acesso não autorizado.</p>
+<p align="justify">
+•	<strong>Integridade</strong> – Garantia de que os dados não foram alterados indevidamente.</p>
+<p align="justify">
+•	<strong>Disponibilidade</strong> – Acesso aos dados quando necessário.</p>
+
+<p align="justify">
+No <strong>Juris Fácil</strong>, a ISO/IEC 27001 é aplicada por meio de:</p>
+
+<p align="justify">
+•	<strong>Avaliação e tratamento de riscos</strong> – Identificação de vulnerabilidades e implementação de controles adequados.</p>
+<p align="justify">
+•	<strong>Políticas de segurança da informação</strong> – Definição de regras claras para uso, acesso e descarte de dados.</p>
+<p align="justify">
+•	<strong>Controles técnicos e organizacionais</strong> – Criptografia, autenticação em dois fatores, logs de auditoria, backups e resposta a incidentes.</p>
+<p align="justify">
+•	<strong>Capacitação contínua</strong> – Treinamentos sobre boas práticas de segurança para todos os usuários do sistema.</p>
+
+<p align="justify">
+A adoção da <strong>ISO/IEC 27001</strong> fortalece a proteção dos dados jurídicos, aumenta a confiança dos clientes e assegura conformidade com a <strong>LGPD</strong> e demais normas aplicáveis.</p>
 
