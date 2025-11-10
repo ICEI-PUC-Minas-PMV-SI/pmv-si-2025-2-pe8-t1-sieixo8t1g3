@@ -31,13 +31,13 @@ Durante o levantamento de requisitos e o desenho da solução Juris Fácil, fora
 •	<strong>Limitações (Oportunidades de Evolução):</strong></p>
 
 <p align="justify">
-<strong> - Integração Judicial:</strong> A integração inicial com o PJe é focada no acompanhamento e cadastro. Ainda não contempla a automação completa de leitura e interpretação de intimações (push de andamentos).</p>
+<strong> - Integração Judicial:</strong> A integração inicial com o PJe é focada no acompanhamento e cadastro manual. Ainda não contempla a automação completa de leitura e interpretação de intimações (push de andamentos).</p>
   
 <p align="justify">
 <strong> - Análise de Dados:</strong> O sistema possui relatórios operacionais básicos, mas carece de um módulo de Business Intelligence (BI) avançado para análises preditivas de rentabilidade ou perfil de cliente.</p>
 
 <p align="justify">
-<strong> - Mobilidade:</strong> A versão inicial foi planejada como uma solução web (desktop), não contemplando um aplicativo móvel dedicado para acesso em audiências ou fora do escritório.</p>
+<strong> - Mobilidade:</strong> A versão inicial foi planejada como uma solução web, não contemplando um aplicativo móvel dedicado para acesso em audiências ou fora do escritório.</p>
 
 <p align="justify">  
 <strong> - Portal do Cliente:</strong> Não há, na versão inicial, um portal de acesso externo para que os clientes possam consultar o andamento de seus casos de forma autônoma.</p>
