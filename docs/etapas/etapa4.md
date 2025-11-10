@@ -104,7 +104,7 @@ Para medir o sucesso do PETI e do sistema Juris Fácil, os seguintes indicadores
 •	<strong>Engajamento:</strong> Frequência de uso do sistema (ex: logins diários).</p>
 
 <p align="justify"> 
-•	<strong>Eficiência:</strong> Redução no tempo médio para elaboração de contratos e procurações.</p>
+•	<strong>Eficiência:</strong> Redução no tempo médio para elaboração de contratos processuais.</p>
 
 <p align="justify"> 
 •	<strong>Redução de Riscos:</strong> Redução de perdas operacionais (ex: nº de prazos perdidos ou reagendados por falha de controle, meta: 0).</p>
