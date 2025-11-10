@@ -63,7 +63,7 @@ Com base nas limitações identificadas e visando o crescimento futuro, as segui
 •	<strong>Curto Prazo (0 a 6 meses):</strong></p>
 
 <p align="justify"> 
-- Garantir 100% de adoção do sistema pela advogada, migrando todos os processos manuais (planilhas) para o Juris Fácil.</p>
+- Garantir 100% de adoção do sistema da empresa parceira, migrando todos os processos manuais (planilhas) para o Juris Fácil.</p>
 
 <p align="justify"> 
 - Estabilizar os módulos centrais (Cadastro, Processos, Financeiro) e coletar feedback contínuo para ajustes finos de usabilidade (UX).</p>
