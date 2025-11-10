@@ -19,7 +19,7 @@ Durante o levantamento de requisitos e o desenho da solução Juris Fácil, fora
 <strong> - Centralização:</strong> O sistema unifica o cadastro de clientes, processos, documentos e o controle financeiro, eliminando a dependência de planilhas e pastas avulsas.</p>
 
 <p align="justify">
-<strong> - Automação:</strong> Agiliza a geração de documentos recorrentes (contratos de honorários, procurações, declarações), reduzindo o tempo gasto em tarefas manuais.</p>
+<strong> - Automação:</strong> Agiliza a geração de documentos recorrentes (contratos de honorários), reduzindo o tempo gasto em tarefas manuais.</p>
 
 <p align="justify">
 <strong> - Controle de Prazos:</strong> A implementação de um módulo de gestão de prazos com alertas mitiga o risco operacional de perdas por falha humana.</p>
