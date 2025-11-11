@@ -95,23 +95,46 @@ Com base nas limitações identificadas e visando o crescimento futuro, as segui
 ### Indicadores de Acompanhamento
 
 <p align="justify"> 
-Para medir o sucesso do PETI e do sistema Juris Fácil, os seguintes indicadores (KPIs) serão monitorados:</p>
+Para medir o sucesso do PETI e o impacto real do sistema Juris Fácil na rotina e estratégia do escritório, os seguintes Indicadores-Chave de Performance (KPIs) serão monitorados de forma detalhada:</p>
 
 <p align="justify"> 
-•	<strong>Adoção:</strong> Número de usuários ativos (Meta: 100% da equipe).</p>
+•	<strong>Indicador: Adoção e Centralização da Informação</strong></p>
+
+<p align="justify"><strong> - O que mede:</strong> Este indicador avalia a taxa de adesão da equipe da empresa parceira ao sistema. O objetivo não é apenas medir se os usuários estão "usando" o sistema, mas sim se eles deixaram de usar os métodos antigos (planilhas avulsas, pastas locais, anotações manuais).</p>
+
+<p align="justify"><strong> - Por que é importante:</strong> Um sistema só entrega valor se for a fonte única da verdade. Se os usuários continuarem mantendo controles paralelos, o sistema falhará em seu objetivo de centralizar dados e reduzir riscos. A meta é que 100% dos novos clientes, processos e lançamentos financeiros sejam feitos exclusivamente dentro do <strong>Juris Fácil</strong>.</p>
 
 <p align="justify"> 
-•	<strong>Engajamento:</strong> Frequência de uso do sistema (ex: logins diários).</p>
+•	<strong>Indicador: Nível de Engajamento com Módulos-Chave</strong></p>
+
+<p align="justify"><strong> - O que mede:</strong> Mais do que apenas medir o login diário, este indicador acompanhará a frequência e a profundidade de uso dos módulos que geram valor. Mediremos, por exemplo, a quantidade de documentos gerados automaticamente (contratos) por semana e o número de prazos processuais cadastrados e baixados através do sistema.</p>
+
+<p align="justify"><strong> - Por que é importante:</strong> Um alto engajamento demonstra que as funcionalidades centrais do sistema são úteis e estão efetivamente sendo incorporadas ao fluxo de trabalho, provando que a ferramenta não é apenas um repositório de dados, mas um assistente ativo na execução de tarefas.</p>
 
 <p align="justify"> 
-•	<strong>Eficiência:</strong> Redução no tempo médio para elaboração de contratos processuais.</p>
+•	<strong>Indicador: Ganho de Eficiência Operacional (Tempo)</strong></p>
+
+<p align="justify"><strong> - O que mede:</strong> Medirá a redução percentual no tempo gasto em tarefas administrativas que foram automatizadas ou simplificadas. O foco inicial será a elaboração de contratos de honorários, comparando o tempo gasto no método manual (abrindo modelos no Word, copiando e colando dados) versus o tempo para gerar o mesmo contrato no <strong>Juris Fácil</strong>.</p>
+
+<p align="justify"><strong> - Por que é importante:</strong> Este é um dos principais retornos sobre o investimento (ROI) do projeto. O tempo que os usuários da empresa parceira economiza nessas tarefas pode ser revertido para atividades que geram receita, como o atendimento a clientes, a prospecção ou o aprimoramento técnico.</p>
 
 <p align="justify"> 
-•	<strong>Redução de Riscos:</strong> Acompanhamento da redução de perdas operacionais (ex: nº de prazos perdidos ou reagendados por falha de controle, meta: 0).</p>
+•	<strong>Indicador: Mitigação de Riscos Operacionais (Qualidade)</strong></p>
+
+<p align="justify"><strong> - O que mede:</strong> Este KPI monitora a redução de falhas humanas que podem gerar custos financeiros ou danos à reputação. O indicador principal será o <strong>número de prazos perdidos ou reagendados por falha de controle interno</strong>, com a meta de zerar essa ocorrência.</p>
+
+<p align="justify"><strong> - Por que é importante:</strong> Na advocacia, a perda de um prazo é um dos erros mais críticos. Ao garantir um controle de prazos centralizado, proativo e com alertas eficientes, o sistema <strong>Juris Fácil</strong> atua diretamente na blindagem operacional do escritório, aumentando a confiabilidade do serviço prestado.</p>
 
 <p align="justify"> 
-•	<strong>Gestão Estratégica:</strong> Tempo de resposta a decisões (ex: tempo necessário para gerar um relatório consolidado de faturamento).</p>
+•	<strong>Indicador: Visibilidade para Gestão Estratégica do Negócio</strong></p>
 
+<p align="justify"><strong> - O que mede:</strong> Este indicador avalia a capacidade do sistema em fornecer dados claros para a tomada de decisão comercial e estratégica. Será medida a qualidade da informação gerada.</p>
+
+<p align="justify"><strong>&emsp;&emsp;1. Rentabilidade por Área de Atuação:</strong> O sistema cruzará os dados financeiros (honorários recebidos) com os processos cadastrados (Família, Civil, Trabalhista), mostrando qual área é financeiramente mais estratégica para o escritório.</p>
+
+ <p align="justify"><strong>&emsp;&emsp;2.	Taxa de Conversão Comercial:  </strong> Analisando o funil desde o "Atendimento Inicial" (cadastrado no sistema) até o "Contrato Fechado" (processo ativo e com financeiro lançado).</p>
+
+<p align="justify"><strong> - Por que é importante:</strong> Este KPI transforma o <strong>Juris Fácil</strong> de um sistema operacional em uma ferramenta de gestão de negócios. Ele permite que a advogada saiba quais áreas de atuação deve focar para aumentar o faturamento e quantos atendimentos ela precisa realizar para atingir suas metas de novos clientes.</p>
 
 ## 4.2 Auditoria e Governança de TI (para pequenas empresas)
 
