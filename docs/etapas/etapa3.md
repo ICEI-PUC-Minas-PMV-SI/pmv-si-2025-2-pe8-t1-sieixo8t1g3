@@ -506,8 +506,81 @@ Figura 20 –  Tela Dashboard
 Figura 21 –  Tela Suporte
 </p>
 
+#### Tela Termos de uso 
+
+<p align="center">
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/cf4ba304-e9a5-4277-8b3d-dd709e39f673" />
+</p>
+
+<p align="center">
+Figura 22 –  Tela Termos de uso
+</p>
+
+#### Tela Politica de Privacidade
+
+<p align="center">
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/e4108b4e-9550-4277-b3bf-1f34cc3f5f7d" />
+</p>
+
+
+<p align="center">
+Figura 23 –   Tela Politica de Privacidade
+</p>
+
+#### Tela Politica de cookies 
+
+<p align="center">
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/b6d15ec7-6dc0-4756-a6ae-02231326ae46" />
+
+</p>
+
+<p align="center">
+Figura 24 –  Tela Politica de cookies
+</p>
+
+#### Tela de responsividade (Celular) 
+
+<p align="center">
+<img width="342" height="654" alt="image" src="https://github.com/user-attachments/assets/34c0e428-882a-404e-a896-d311bb1eb36c" />
+</p>
+
+
+<p align="center">
+Figura 25 –  Tela de responsividade (Celular) 
+</p>
+
+
+#### Tela de responsividade (Tablet) 
+
+<p align="center">
+<img width="458" height="698" alt="image" src="https://github.com/user-attachments/assets/ca2a4a9e-c919-4be0-b573-90e58a0c1d3f" />
+
+</p>
+
+<p align="center">
+Figura 26 –  Tela de responsividade (Tablet) 
+</p>
+
+#### Tela de responsividade (Desktop)
+
+<p align="center">
+<img width="700" height="647" alt="image" src="https://github.com/user-attachments/assets/b94a6302-39be-41b9-ab8b-f27f92d6ee2b" />
+
+</p>
+
+<p align="center">
+Figura 27 –  Tela de responsividade (Desktop)
+</p>
+
+
+<br>
+
 ### Esboço do modelo de dados (ER)
 
 <p align="center">
 <img width="2006" height="3166" alt="image" src="https://github.com/user-attachments/assets/bafa5cc2-4d01-4b0f-804a-f7b8c3fdb4ce" />
+</p>
+
+<p align="center">
+Figura 28 – Esboço da mdelagem de dados do sistema.
 </p>
