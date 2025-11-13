@@ -31,7 +31,7 @@ Durante o levantamento de requisitos e o desenho da solução Juris Fácil, fora
 •	<strong>Limitações (Oportunidades de Evolução):</strong></p>
 
 <p align="justify">
-<strong> - Integração Judicial:</strong> A integração inicial com o PJe é focada no acompanhamento e cadastro manual. Ainda não contempla a automação completa de leitura e interpretação de intimações (push de andamentos).</p>
+<strong> - Integração Judicial:</strong> A integração inicial com o PJe/ Eproc é focada no acompanhamento e cadastro manual. Ainda não contempla a automação completa de leitura e interpretação de intimações (push de andamentos).</p>
   
 <p align="justify">
 <strong> - Análise de Dados:</strong> O sistema possui relatórios operacionais básicos, mas carece de um módulo de Business Intelligence (BI) avançado para análises preditivas de rentabilidade ou perfil de cliente.</p>
@@ -52,7 +52,7 @@ Com base nas limitações identificadas e visando o crescimento futuro, as segui
 <strong>1.	Evolução em Mobilidade:</strong> Desenvolver um aplicativo móvel (Android/iOS) que permita ao menos a consulta de agenda, prazos, contatos de clientes e documentos principais.</p>
 
 <p align="justify"> 
-<strong>2.	Integração Avançada:</strong> Aprofundar a integração com sistemas judiciais (PJe, Projudi) para automatizar a captura de novos andamentos e intimações, reduzindo a necessidade de consulta manual.</p>
+<strong>2.	Integração Avançada:</strong> Aprofundar a integração com sistemas judiciais (PJe, Eproc, Projudi) para automatizar a captura de novos andamentos e intimações, reduzindo a necessidade de consulta manual.</p>
 
 <p align="justify"> 
 <strong>3.	Módulo de BI:</strong> Criar um módulo de Business Intelligence que transforme os dados operacionais em dashboards estratégicos (ex: rentabilidade por área do direito, tempo médio por caso, funil de captação de clientes).</p>
