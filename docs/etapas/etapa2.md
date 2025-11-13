@@ -354,6 +354,8 @@ O sistema Juris Fácil será desenvolvido em conformidade com:
   </li>
 </ul>
 
+2.6.1 Mapeamento de Requisitos Regulatórios
+
 | Tipo de Dado | Classificação (LGPD) | Recomendações de Segurança |
 |---|---|---|
 | Nome | Dado pessoal | Controle de acesso, política de privacidade |
