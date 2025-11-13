@@ -389,7 +389,7 @@ Mostra como o usuário podem entrar em contato com o time de suporte do sistema 
 Figura 10 – Caso de Uso 10: Suporte
 </p>
 
-### Interface do sistema
+### 3.5. Interface do sistema
 
 #### Tela inicial antes do login
 
@@ -575,7 +575,7 @@ Figura 27 –  Tela de responsividade (Desktop)
 
 <br>
 
-### Esboço do modelo de dados (ER)
+### 3.6. Esboço do modelo de dados (ER)
 
 <p align="center">
 <img width="2006" height="3166" alt="image" src="https://github.com/user-attachments/assets/bafa5cc2-4d01-4b0f-804a-f7b8c3fdb4ce" />
