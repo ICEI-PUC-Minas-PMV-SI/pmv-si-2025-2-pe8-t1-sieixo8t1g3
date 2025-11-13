@@ -139,20 +139,18 @@ Para medir o sucesso do PETI e o impacto real do sistema Juris Fácil na rotina 
 # Juris Fácil: Governança e Segurança de TI que Protegem Seu Escritório e Impulsionam Resultados
 
 **Transforme tecnologia em vantagem competitiva.**
-Com o **Juris Fácil**, seu escritório de advocacia ganha **controle, segurança e eficiência**, seguindo padrões internacionais como **ISO/IEC 38500, COBIT e ISO/IEC 27001**.  
+<p align="justify">Com o <strong>Juris Fácil</strong>, seu escritório de advocacia ganha <strong>controle, segurança e eficiência</strong>, seguindo padrões internacionais como <strong>ISO/IEC 38500, COBIT e ISO/IEC 27001</strong>.  
 Proteja dados sensíveis, cumpra a LGPD e tome decisões estratégicas com confiança.  
-**Mais que um sistema: uma solução completa para advogados autônomos e pequenos escritórios que querem crescer com segurança e credibilidade.**
+<strong>Mais que um sistema: uma solução completa para advogados autônomos e pequenos escritórios que querem crescer com segurança e credibilidade.</strong></p>
 
 ## 4.2 Auditoria e Governança de TI para Escritórios Jurídicos
 
-<div style='text-align: justify;'>
-
-Em um mercado cada vez mais competitivo, a tecnologia deixou de ser um luxo e se tornou um fator estratégico para escritórios de advocacia. A adoção de práticas de **governança e auditoria de TI** garante que seus recursos tecnológicos estejam alinhados aos objetivos do negócio, mesmo em estruturas enxutas.  
-O **Juris Fácil** foi desenvolvido com base nos mais altos padrões internacionais, como **ISO/IEC 38500**, **COBIT** e **ISO/IEC 27001**, trazendo para o seu escritório diretrizes que asseguram **gestão responsável, segurança e eficiência**.
+<p align="justify">Em um mercado cada vez mais competitivo, a tecnologia deixou de ser um luxo e se tornou um fator estratégico para escritórios de advocacia. A adoção de práticas de <strong>governança e auditoria de TI</strong> garante que seus recursos tecnológicos estejam alinhados aos objetivos do negócio, mesmo em estruturas enxutas.  
+O <strong>Juris Fácil</strong> foi desenvolvido com base nos mais altos padrões internacionais, como <strong>ISO/IEC 38500</strong>, <strong>COBIT</strong> e <strong>ISO/IEC 27001</strong>, trazendo para o seu escritório diretrizes que asseguram <strong>gestão responsável, segurança e eficiência</strong>.</p>
 
 
-### **4.2.1 Governança de TI com ISO/IEC 38500**
-A norma **ISO/IEC 38500** define princípios que ajudam escritórios jurídicos a tomar decisões inteligentes sobre tecnologia. Em termos práticos, isso significa:
+### 4.2.1 Governança de TI com ISO/IEC 38500
+<p align="justify">A norma <strong>ISO/IEC 38500</strong> define princípios que ajudam escritórios jurídicos a tomar decisões inteligentes sobre tecnologia. Em termos práticos, isso significa:</p>
 
 1. **Responsabilidade** – Clareza sobre quem decide e responde pelo uso da TI.  
 2. **Estratégia** – Tecnologia alinhada aos objetivos do seu negócio jurídico.  
@@ -164,8 +162,9 @@ A norma **ISO/IEC 38500** define princípios que ajudam escritórios jurídicos 
 Com esses princípios, seu escritório ganha **controle, previsibilidade e segurança**.
 
 
-### **4.2.2 COBIT: Governança Simplificada para Escritórios**
-O **COBIT** é um framework que conecta tecnologia ao valor do negócio. No **Juris Fácil**, aplicamos seus conceitos de forma prática e acessível para pequenos escritórios:
+### 4.2.2 COBIT: Governança Simplificada para Escritórios
+
+<p align="justify">O <strong>COBIT</strong> é um framework que conecta tecnologia ao valor do negócio. No <strong>Juris Fácil</strong>, aplicamos seus conceitos de forma prática e acessível para pequenos escritórios:</p>
 
 - **Alinhamento com objetivos jurídicos** – Gestão de processos, segurança de dados e conformidade.  
 - **Cobertura ponta a ponta** – Da recepção aos sócios, todos integrados.  
@@ -176,7 +175,7 @@ Resultado? **Mais controle, decisões assertivas e tecnologia a serviço do seu 
 
 
 ### **4.2.3 Segurança de Dados com ISO/IEC 27001**
-Advogados lidam com informações sensíveis todos os dias. A norma **ISO/IEC 27001** garante que esses dados estejam **protegidos contra riscos e acessos indevidos**, com base em três pilares:
+<p align="justify">Advogados lidam com informações sensíveis todos os dias. A norma <strong>ISO/IEC 27001</strong> garante que esses dados estejam <strong>protegidos contra riscos e acessos indevidos</strong>, com base em três pilares:</p>
 
 - **Confidencialidade** – Somente pessoas autorizadas acessam os dados.  
 - **Integridade** – Garantia de que nada é alterado indevidamente.  
@@ -193,6 +192,5 @@ Com isso, seu escritório **protege informações críticas, cumpre a LGPD e tra
 
 
 **Por que isso importa para você?**  
-Porque **segurança, governança e eficiência tecnológica** não são apenas requisitos legais – são diferenciais competitivos que fortalecem sua imagem e aumentam a confiança dos clientes.
+<p align="justify">Porque <strong>segurança, governança e eficiência tecnológica</strong> não são apenas requisitos legais – são diferenciais competitivos que fortalecem sua imagem e aumentam a confiança dos clientes.</p>
 
-</div>
