@@ -136,32 +136,20 @@ Para medir o sucesso do PETI e o impacto real do sistema Juris Fácil na rotina 
 
 <p align="justify"><strong> - Por que é importante:</strong> Este KPI transforma o <strong>Juris Fácil</strong> de um sistema operacional em uma ferramenta de gestão de negócios. Ele permite que a advogada saiba quais áreas de atuação deve focar para aumentar o faturamento e quantos atendimentos ela precisa realizar para atingir suas metas de novos clientes.</p>
 
-## Juris Fácil: Governança e Segurança de TI que Protegem Seu Escritório e Impulsionam Resultados
+# Juris Fácil: Governança e Segurança de TI que Protegem Seu Escritório e Impulsionam Resultados
 
-Transforme tecnologia em vantagem competitiva.
-Com o Juris Fácil, seu escritório de advocacia ganha controle, segurança e eficiência, seguindo padrões internacionais como ISO/IEC 38500, COBIT e ISO/IEC 27001.
-Proteja dados sensíveis, cumpra a LGPD e tome decisões estratégicas com confiança.
-Mais que um sistema: uma solução completa para advogados autônomos e pequenos escritórios que querem crescer com segurança e credibilidade.
-
-## 4.2 Auditoria e Governança de TI (para pequenas empresas)
-
-<div style='text-align: justify;'>
-## **Juris Fácil: Governança e Segurança de TI que Protegem Seu Escritório e Impulsionam Resultados**
-
----
-
-**Transforme tecnologia em vantagem competitiva.**  
+**Transforme tecnologia em vantagem competitiva.**
 Com o **Juris Fácil**, seu escritório de advocacia ganha **controle, segurança e eficiência**, seguindo padrões internacionais como **ISO/IEC 38500, COBIT e ISO/IEC 27001**.  
 Proteja dados sensíveis, cumpra a LGPD e tome decisões estratégicas com confiança.  
 **Mais que um sistema: uma solução completa para advogados autônomos e pequenos escritórios que querem crescer com segurança e credibilidade.**
 
----
+## 4.2 Auditoria e Governança de TI para Escritórios Jurídicos
 
-## **4.2 Auditoria e Governança de TI para Escritórios Jurídicos**
+<div style='text-align: justify;'>
+
 Em um mercado cada vez mais competitivo, a tecnologia deixou de ser um luxo e se tornou um fator estratégico para escritórios de advocacia. A adoção de práticas de **governança e auditoria de TI** garante que seus recursos tecnológicos estejam alinhados aos objetivos do negócio, mesmo em estruturas enxutas.  
 O **Juris Fácil** foi desenvolvido com base nos mais altos padrões internacionais, como **ISO/IEC 38500**, **COBIT** e **ISO/IEC 27001**, trazendo para o seu escritório diretrizes que asseguram **gestão responsável, segurança e eficiência**.
 
----
 
 ### **4.2.1 Governança de TI com ISO/IEC 38500**
 A norma **ISO/IEC 38500** define princípios que ajudam escritórios jurídicos a tomar decisões inteligentes sobre tecnologia. Em termos práticos, isso significa:
@@ -175,7 +163,6 @@ A norma **ISO/IEC 38500** define princípios que ajudam escritórios jurídicos 
 
 Com esses princípios, seu escritório ganha **controle, previsibilidade e segurança**.
 
----
 
 ### **4.2.2 COBIT: Governança Simplificada para Escritórios**
 O **COBIT** é um framework que conecta tecnologia ao valor do negócio. No **Juris Fácil**, aplicamos seus conceitos de forma prática e acessível para pequenos escritórios:
@@ -187,7 +174,6 @@ O **COBIT** é um framework que conecta tecnologia ao valor do negócio. No **Ju
 
 Resultado? **Mais controle, decisões assertivas e tecnologia a serviço do seu crescimento**.
 
----
 
 ### **4.2.3 Segurança de Dados com ISO/IEC 27001**
 Advogados lidam com informações sensíveis todos os dias. A norma **ISO/IEC 27001** garante que esses dados estejam **protegidos contra riscos e acessos indevidos**, com base em três pilares:
@@ -205,14 +191,8 @@ No **Juris Fácil**, isso se traduz em:
 
 Com isso, seu escritório **protege informações críticas, cumpre a LGPD e transmite confiança aos clientes**.
 
----
 
-✅ **Por que isso importa para você?**  
+**Por que isso importa para você?**  
 Porque **segurança, governança e eficiência tecnológica** não são apenas requisitos legais – são diferenciais competitivos que fortalecem sua imagem e aumentam a confiança dos clientes.
-
----
-
-### **Sugestão de CTA**
-**👉 Quer levar seu escritório para outro nível? Conheça o Juris Fácil e descubra como tecnologia pode trabalhar a favor do seu negócio jurídico. [Solicite uma demonstração agora!]**
 
 </div>
