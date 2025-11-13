@@ -126,7 +126,7 @@ No momento, o escritório não utiliza sistemas de informação dedicados à ges
   <li style="text-align: justify;">Risco de perda de dados devido à ausência de backup estruturado e controle em nuvem.</li>
 </ul>
 
-1.4.4. Oportunidades de melhoria
+1.4.3. Oportunidades de melhoria
 
 <p align="justify">
 O cenário atual permite identificar diversas oportunidades de automação e modernização: </p>
@@ -149,7 +149,7 @@ O cenário atual permite identificar diversas oportunidades de automação e mod
   </li>
 </ul>
 
-1.4.5. Avaliação de maturidade dos sistemas de informação
+1.4.4. Avaliação de maturidade dos sistemas de informação
 
 <p align="justify">
 Segundo o modelo de maturidade em sistemas de informação, o escritório encontra-se em um nível inicial (nível 1), caracterizado pela ausência de sistemas estruturados, forte dependência de ferramentas manuais e baixa padronização nos processos. Isso compromete a escalabilidade e dificulta o crescimento sustentável do negócio.</p>
