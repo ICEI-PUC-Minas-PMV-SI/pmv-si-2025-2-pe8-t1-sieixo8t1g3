@@ -148,7 +148,6 @@ Proteja dados sensíveis, cumpra a LGPD e tome decisões estratégicas com confi
 <p align="justify">Em um mercado cada vez mais competitivo, a tecnologia deixou de ser um luxo e se tornou um fator estratégico para escritórios de advocacia. A adoção de práticas de <strong>governança e auditoria de TI</strong> garante que seus recursos tecnológicos estejam alinhados aos objetivos do negócio, mesmo em estruturas enxutas.  
 O <strong>Juris Fácil</strong> foi desenvolvido com base nos mais altos padrões internacionais, como <strong>ISO/IEC 38500</strong>, <strong>COBIT</strong> e <strong>ISO/IEC 27001</strong>, trazendo para o seu escritório diretrizes que asseguram <strong>gestão responsável, segurança e eficiência</strong>.</p>
 
-
 ### 4.2.1 Governança de TI com ISO/IEC 38500
 <p align="justify">A norma <strong>ISO/IEC 38500</strong> define princípios que ajudam escritórios jurídicos a tomar decisões inteligentes sobre tecnologia. Em termos práticos, isso significa:</p>
 
@@ -160,7 +159,6 @@ O <strong>Juris Fácil</strong> foi desenvolvido com base nos mais altos padrõe
 6. **Comportamento Humano** – Respeito aos direitos e necessidades dos usuários.  
 
 Com esses princípios, seu escritório ganha **controle, previsibilidade e segurança**.
-
 
 ### 4.2.2 COBIT: Governança Simplificada para Escritórios
 
@@ -189,7 +187,6 @@ No **Juris Fácil**, isso se traduz em:
 - **Treinamento contínuo** – Capacitação para boas práticas de segurança.  
 
 Com isso, seu escritório **protege informações críticas, cumpre a LGPD e transmite confiança aos clientes**.
-
 
 **Por que isso importa para você?**  
 <p align="justify">Porque <strong>segurança, governança e eficiência tecnológica</strong> não são apenas requisitos legais – são diferenciais competitivos que fortalecem sua imagem e aumentam a confiança dos clientes.</p>
