@@ -136,7 +136,7 @@ Para o desenvolvimento deste projeto, foi selecionado um conjunto de tecnologias
 <p align="justify">
 <strong>Docker:</strong> plataforma que permite criar, implantar e executar aplicações em containers, garantindo que o ambiente de desenvolvimento e execução seja padronizado e isolado. </p>
 
-### Diagramas de caso de uso
+### 3.4. Diagramas de caso de uso
 
 #### - Caso de Uso 1: Tela inicial antes do login
 
