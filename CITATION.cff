@@ -20,7 +20,10 @@ type: software
   - name-suffix: Professora
     affiliation: Pontifícia Universidade Católica de Minas Gerais - PUC Minas.
 abstract: >-
- O projeto "Juris Fácil" é um Sistema de Informação (SI) para advogados autônomos e pequenos escritórios, focado em solucionar os problemas da gestão manual, como a baixa produtividade e o risco de perda de prazos. A plataforma centraliza dados de clientes e processos, automatiza a gestão de prazos e integra o controle financeiro, garantindo conformidade com a LGPD e a OAB.
+ O projeto "Juris Fácil" é um Sistema de Informação (SI) para advogados autônomos e pequenos escritórios, 
+focado em solucionar os problemas da gestão manual, como a baixa produtividade e o risco de perda de prazos. 
+A plataforma centraliza dados de clientes e processos, automatiza a gestão de prazos e integra o controle financeiro, 
+garantindo conformidade com a LGPD e a OAB.
 keywords:
   - Desenvolvimento Web
   - Gestão Jurídica
