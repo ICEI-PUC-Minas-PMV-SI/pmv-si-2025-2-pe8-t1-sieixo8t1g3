@@ -1,33 +1,36 @@
 # This CITATION.cff file was generated with cffinit.
 # Visit https://bit.ly/cffinit to generate yours today!
 
-cff-version: 1.2.0
-title: Web Application Template
+title: Juris Fácil
 message: >-
-  Repositório padrão para o Eixo 1 - Projeto 1: Aplicações
-  Web da PUC Minas.
+  Repositório padrão para o Eixo 8 - Projeto 3:  Sistemas e as organizações - Trabalho de Conclusão de Curso
 type: software
-authors:
-  - given-names: Aluno 1
-    family-names: Nome Completo
-    email: aluno@pucminas.br
-    affiliation: PUC Minas
-  - given-names: Hugo
-    name-particle: 'B '
-    family-names: de Paula
-    name-suffix: Prof.
-    email: hugo@pucminas.br
-    affiliation: PUC Minas
-    orcid: 'https://orcid.org/0000-0002-6193-3205'
-repository-code: >-
-  https://github.com/ICEI-PUC-Minas-PMV-SI/WebApplicationProject-Template
+ - family-names: Guzmán Siácara 
+    given-names: Alexandre
+  - family-names: Paula Sena
+    given-names: Ana
+  - family-names: Matheus da Silva Duarte
+    given-names: Brayon 
+  - family-names: Rocha Dutra
+    given-names: Gina
+  - family-names: André Gomes Lobato
+    given-names: Salomão 
+  - family-names: fernandes Queiroz
+    given-names: Simone
+  - name-suffix: Professora
+    affiliation: Pontifícia Universidade Católica de Minas Gerais - PUC Minas.
 abstract: >-
-  Descrever resumidamente, em um ou dois parágrafos, o
-  projeto que foi desenvolvido.
+ O projeto "Juris Fácil" é um Sistema de Informação (SI) para advogados autônomos e pequenos escritórios, focado em solucionar os problemas da gestão manual, como a baixa produtividade e o risco de perda de prazos. A plataforma centraliza dados de clientes e processos, automatiza a gestão de prazos e integra o controle financeiro, garantindo conformidade com a LGPD e a OAB.
 keywords:
   - Desenvolvimento Web
-  - HTML
-  - CSS
-  - JavaScript
-  - Template
-date-released: '2024-06-23'
+  - Gestão Jurídica
+  - Software Jurídico
+  - Gestão de Processos
+  - Gestão de Prazos
+  - Advocacia
+
+repository-code: >-
+  https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe8-t1-sieixo8t1g3
+cff-version: 1.2.0
+date-released: '2025-11-28'
+
