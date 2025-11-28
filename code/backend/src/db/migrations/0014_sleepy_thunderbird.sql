@@ -1,1 +1,0 @@
-ALTER TABLE "addresses" ALTER COLUMN "zip_code" SET DATA TYPE varchar(10);
