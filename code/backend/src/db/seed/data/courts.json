@@ -1,0 +1,554 @@
+[
+  {
+    "id": "2b970e67-c14b-4e86-96ce-6d4b8b31f22b",
+    "name": "Superior Tribunal de Justiça (STJ)",
+    "courtType": "589e5573-0b8a-4d63-b2e3-12d71cd1cf05",
+    "active": true
+  },
+  {
+    "id": "ddbf4165-914e-4fb7-bb5e-24ae302c6959",
+    "name": "Superior Tribunal Militar (STM)",
+    "courtType": "589e5573-0b8a-4d63-b2e3-12d71cd1cf05",
+    "active": true
+  },
+  {
+    "id": "811074e9-ef08-4cb8-b3f4-7de6dcca154e",
+    "name": "Supremo Tribunal Federal (STF)",
+    "courtType": "589e5573-0b8a-4d63-b2e3-12d71cd1cf05",
+    "active": true
+  },
+  {
+    "id": "a4f86f14-385f-4199-94a1-144e1cd5c5a7",
+    "name": "Tribunal Superior do Trabalho (TST)",
+    "courtType": "589e5573-0b8a-4d63-b2e3-12d71cd1cf05",
+    "active": true
+  },
+  {
+    "id": "d3c4fc96-e679-4e68-aa7c-956f53cee878",
+    "name": "Tribunal Superior Eleitoral (TSE)",
+    "courtType": "589e5573-0b8a-4d63-b2e3-12d71cd1cf05",
+    "active": true
+  },
+  {
+    "id": "7a852726-96a2-4279-8e43-b55558842579",
+    "name": "Tribunal Regional Federal da 1ª Região (TRF1) (AC, AM, AP, BA, DF, GO, MA, MT, PA, PI, RO, RR e TO)",
+    "courtType": "d64d1369-aff5-45e5-9462-656bddfabe77",
+    "active": true
+  },
+  {
+    "id": "ae0e9b6f-e58c-42e5-a6ae-b79d8fb1eeca",
+    "name": "Tribunal Regional Federal da 2ª Região (TRF2) (ES e RJ)",
+    "courtType": "d64d1369-aff5-45e5-9462-656bddfabe77",
+    "active": true
+  },
+  {
+    "id": "0112485d-f2d8-404c-a403-8897c70ca106",
+    "name": "Tribunal Regional Federal da 3ª Região (TRF3) (MS e SP)",
+    "courtType": "d64d1369-aff5-45e5-9462-656bddfabe77",
+    "active": true
+  },
+  {
+    "id": "94e77dff-6043-4493-8359-99dfa18ec372",
+    "name": "Tribunal Regional Federal da 4ª Região (TRF4) (PR, RS e SC)",
+    "courtType": "d64d1369-aff5-45e5-9462-656bddfabe77",
+    "active": true
+  },
+  {
+    "id": "fa8336db-4ccc-43d1-9a6d-63ec86312d06",
+    "name": "Tribunal Regional Federal da 5ª Região (TRF5) (AL, CE, PB, PE, RN e SE)",
+    "courtType": "d64d1369-aff5-45e5-9462-656bddfabe77",
+    "active": true
+  },
+  {
+    "id": "1aa8d774-50f9-453b-a539-bdfdb208c02d",
+    "name": "Tribunal Regional Federal da 6ª Região (TRF6) (MG)",
+    "courtType": "d64d1369-aff5-45e5-9462-656bddfabe77",
+    "active": true
+  },
+  {
+    "id": "c17e4f2b-e7dd-4a9a-8bc1-d20e86354f09",
+    "name": "Tribunal de Justiça da Bahia (TJBA)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "0aa3179d-3db2-489d-9eb0-3e15a02a264c",
+    "name": "Tribunal de Justiça da Paraíba (TJPB)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "f6ffe57d-57b5-45ac-9577-0421df6044c7",
+    "name": "Tribunal de Justiça de Alagoas (TJAL)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "a61fecc3-c30f-41a5-beb2-4a3c3be66bbe",
+    "name": "Tribunal de Justiça de Goiás (TJGO)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "b0041379-5913-407d-872a-2bc72c43e1fd",
+    "name": "Tribunal de Justiça de Mato Grosso (TJMT)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "bafa93eb-5a6e-4651-9060-f03d0ccc287d",
+    "name": "Tribunal de Justiça de Mato Grosso do Sul (TJMS)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "7f83c708-9088-48cf-b486-873b8f4d0ec1",
+    "name": "Tribunal de Justiça de Minas Gerais (TJMG)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "419e4c49-6e61-4856-a9b4-ed29207c7cc3",
+    "name": "Tribunal de Justiça de Pernambuco (TJPE)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "9e3c8d49-3326-4e81-a00e-5c88a14e216c",
+    "name": "Tribunal de Justiça de Rondônia (TJRO)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "338695c7-169b-42b2-ac06-323a2bdefd63",
+    "name": "Tribunal de Justiça de Roraima (TJRR)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "c63d5217-c8e5-4f67-ab7b-e7547b66726c",
+    "name": "Tribunal de Justiça de Santa Catarina (TJSC)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "142019b0-3951-4476-a8af-2ca908ac73e9",
+    "name": "Tribunal de Justiça de São Paulo (TJSP)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "a544d110-a0a0-41f1-9d97-2a8c734d53eb",
+    "name": "Tribunal de Justiça de Sergipe (TJSE)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "03f2addf-45e8-412f-9037-0db6377a9909",
+    "name": "Tribunal de Justiça do Acre (TJAC)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "cd118607-f58e-428a-a9c8-71063b88979c",
+    "name": "Tribunal de Justiça do Amapá (TJAP)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "1858c690-03f0-491c-b076-323511838b5f",
+    "name": "Tribunal de Justiça do Amazonas (TJAM)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "ea6084c8-5921-46e9-9764-d1c51621c3a3",
+    "name": "Tribunal de Justiça do Ceará (TJCE)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "60bcd876-e179-4d6d-89f9-00f471c511f3",
+    "name": "Tribunal de Justiça do Distrito Federal e Territórios (TJDFT)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "b3e4c098-0da8-4de6-a382-1b0b81aa6b40",
+    "name": "Tribunal de Justiça do Espírito Santo (TJES)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "6b8757cc-ba45-4396-b8e0-213801ec1b68",
+    "name": "Tribunal de Justiça do Maranhão (TJMA)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "4130fc63-966e-4956-aaf1-574a566b6376",
+    "name": "Tribunal de Justiça do Pará (TJPA)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "2fb16469-0f0e-4021-98cd-b20ece3408db",
+    "name": "Tribunal de Justiça do Paraná (TJPR)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "bc3f7a3c-e2af-46c8-af4f-904293ddbd27",
+    "name": "Tribunal de Justiça do Piauí (TJPI)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "025f4996-1c86-4ee5-a3f9-db811a4fd86d",
+    "name": "Tribunal de Justiça do Rio de Janeiro (TJRJ)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "eb4f3d52-c797-41cc-a957-eacfc788fdbd",
+    "name": "Tribunal de Justiça do Rio Grande do Norte (TJRN)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "870f0133-1947-44f8-8ae4-3a321e4bf0aa",
+    "name": "Tribunal de Justiça do Rio Grande do Sul (TJRS)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "70114909-1620-4f85-90b7-bcb9a30aa817",
+    "name": "Tribunal de Justiça do Tocantins (TJTO)",
+    "courtType": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "active": true
+  },
+  {
+    "id": "518c86db-66a6-4fc0-9460-02b36525aa34",
+    "name": "Tribunal Regional Eleitoral da Bahia",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "83908a41-4392-44b1-aabe-14334d33440c",
+    "name": "Tribunal Regional Eleitoral da Paraíba",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "b072e875-c29e-460f-b347-0d17644c0ed8",
+    "name": "Tribunal Regional Eleitoral de Alagoas",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "9dadbc1b-7e0b-4421-a03d-9970986f8123",
+    "name": "Tribunal Regional Eleitoral de Goiás",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "683d18be-2fb7-4f3f-8f1f-77b090a81c43",
+    "name": "Tribunal Regional Eleitoral de Minas Gerais",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "882d87eb-1b77-4a92-af0a-d335278870b4",
+    "name": "Tribunal Regional Eleitoral de Pernambuco",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "f99f8804-0fd7-4089-930c-92a1301fdff0",
+    "name": "Tribunal Regional Eleitoral de Rondônia",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "e1c6d42c-4042-4900-8f50-fab818561e63",
+    "name": "Tribunal Regional Eleitoral de Roraima",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "ce05c681-03a2-4dcb-a144-415cb9b816f2",
+    "name": "Tribunal Regional Eleitoral de Santa Catarina",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "3e48b268-ede3-4632-abc2-1b92b193f2fe",
+    "name": "Tribunal Regional Eleitoral de São Paulo",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "d2eb5312-307b-45b1-a7e4-798006953946",
+    "name": "Tribunal Regional Eleitoral de Sergipe",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "f1a2f3e4-c8cc-4d83-840c-83dc6587cc9f",
+    "name": "Tribunal Regional Eleitoral de Tocantins",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "4889a97b-ee42-4a93-9923-3a4669e13088",
+    "name": "Tribunal Regional Eleitoral do Acre",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "c53068a0-dcab-4199-8f0d-45909cc7770e",
+    "name": "Tribunal Regional Eleitoral do Amapá",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "fa628d22-1edc-48aa-8bd6-3d046aa436a1",
+    "name": "Tribunal Regional Eleitoral do Amazonas",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "768d504c-4103-406b-ad10-8bb73b5ad433",
+    "name": "Tribunal Regional Eleitoral do Ceará",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "e747ed22-cadd-4b7b-b75a-efef97314e7b",
+    "name": "Tribunal Regional Eleitoral do Distrito Federal",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "9f659621-8a79-4f06-bb93-1eb0a4cb1528",
+    "name": "Tribunal Regional Eleitoral do Espírito Santo",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "71c47d85-e027-4c59-b066-d9a331aaa463",
+    "name": "Tribunal Regional Eleitoral do Maranhão",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "de6e54da-f4de-4db1-909d-4f0c4835ea28",
+    "name": "Tribunal Regional Eleitoral do Mato Grosso",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "9f9e1ff2-6d5f-400e-8ef9-6957b28b14f8",
+    "name": "Tribunal Regional Eleitoral do Mato Grosso do Sul",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "9a2f6677-9222-423f-99b5-02e59c33b54b",
+    "name": "Tribunal Regional Eleitoral do Pará",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "7b2d631e-7872-4598-ad35-523d2bfa4fdf",
+    "name": "Tribunal Regional Eleitoral do Paraná",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "fa951ac3-f691-4461-8054-a0696bf6cae6",
+    "name": "Tribunal Regional Eleitoral do Piauí",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "aa996ea1-c2ed-4e17-bf54-5cb1ae0e11f9",
+    "name": "Tribunal Regional Eleitoral do Rio de Janeiro",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "b104ccd3-ce90-4a50-b6ca-a10537023191",
+    "name": "Tribunal Regional Eleitoral do Rio Grande do Norte",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "8afcd92c-ad0a-4053-a3be-ecd38cb780cf",
+    "name": "Tribunal Regional Eleitoral do Rio Grande do Sul",
+    "courtType": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "active": true
+  },
+  {
+    "id": "fdd81b62-10f4-4bb3-9769-56ff98e38917",
+    "name": "Tribunal Regional do Trabalho da 10ª Região (TRT10) (DF e TO)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "9fc119e8-3f3f-487c-83c2-7922e12a9752",
+    "name": "Tribunal Regional do Trabalho da 11ª Região (TRT11) (AM e RR)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "83771c66-0ea1-4084-9ffe-b2d166a58dc5",
+    "name": "Tribunal Regional do Trabalho da 12ª Região (TRT12) (SC)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "70236afc-aea5-454c-b969-b9a4e3083969",
+    "name": "Tribunal Regional do Trabalho da 13ª Região (TRT13) (PB)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "d43c1525-9ff0-4ac0-92e7-b8f29dd242c8",
+    "name": "Tribunal Regional do Trabalho da 14ª Região (TRT14) (AC e RO)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "35beab24-f244-464f-9396-3fe2db01477d",
+    "name": "Tribunal Regional do Trabalho da 15ª Região (TRT15) (SP / Interior e Litoral Norte e Sul)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "b3c22bdd-3b0c-470b-aa78-fabefbd97fd5",
+    "name": "Tribunal Regional do Trabalho da 16ª Região (TRT16) (MA)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "366c8b6c-b978-4203-8722-2a1d0b6de0ed",
+    "name": "Tribunal Regional do Trabalho da 17ª Região (TRT17) (ES)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "68cb8be4-0e4e-4ab5-8309-5a20a5acf162",
+    "name": "Tribunal Regional do Trabalho da 18ª Região (TRT18) (GO)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "194b9403-2fdb-4705-a422-020ec8c5e200",
+    "name": "Tribunal Regional do Trabalho da 19ª Região (TRT19) (AL)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "425c9523-ae84-4f91-b9a9-d87310f3fa38",
+    "name": "Tribunal Regional do Trabalho da 1ª Região (TRT1) (RJ)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "f368554c-37a0-4169-a06f-0dc5e540e3b2",
+    "name": "Tribunal Regional do Trabalho da 20ª Região (TRT20) (SE)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "f509ba20-9ec6-4d8e-83c5-86f2ce14835f",
+    "name": "Tribunal Regional do Trabalho da 21ª Região (TRT21) (RN)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "09a5a022-a2c8-4316-8cd1-3b36f79f5b01",
+    "name": "Tribunal Regional do Trabalho da 22ª Região (TRT22) (PI)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "c0a29ff9-f3ce-48df-9935-9c1e30f3d419",
+    "name": "Tribunal Regional do Trabalho da 23ª Região (TRT23) (MT)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "565966fb-a07d-44ee-a127-f0464afa3c0b",
+    "name": "Tribunal Regional do Trabalho da 24ª Região (TRT24) (MS)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "c24bc2fe-0d09-4048-8f11-919ef707095e",
+    "name": "Tribunal Regional do Trabalho da 2ª Região (TRT2) (SP / Grande São Paulo e Baixada Santista)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "84dd5e24-4666-4e6b-89ad-18d49386679e",
+    "name": "Tribunal Regional do Trabalho da 3ª Região (TRT3) (MG)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "65e9cb6c-dc22-40cb-b760-9525f51fb617",
+    "name": "Tribunal Regional do Trabalho da 4ª Região (TRT4) (RS)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "1001b1b2-4f4d-42af-b0ca-eee816a2b6c2",
+    "name": "Tribunal Regional do Trabalho da 5ª Região (TRT5) (BA)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "1072dc1c-734d-4fb7-bbb1-17e095e7e5ec",
+    "name": "Tribunal Regional do Trabalho da 6ª Região (TRT6) (PE)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "898e4068-9f0b-4e1a-ab83-539df4a41cd3",
+    "name": "Tribunal Regional do Trabalho da 7ª Região (TRT7) (CE)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "2ebb16c9-5947-42c4-8712-55be7c324310",
+    "name": "Tribunal Regional do Trabalho da 8ª Região (TRT8) (AP e PA)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "0ee3790d-8967-415a-b9db-224a7b922d22",
+    "name": "Tribunal Regional do Trabalho da 9ª Região (TRT9) (PR)",
+    "courtType": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "active": true
+  },
+  {
+    "id": "eab20850-68f3-4ab3-8e7b-12b25282ea4e",
+    "name": "Tribunal de Justiça Militar de Minas Gerais (TJMMG)",
+    "courtType": "5847bf7c-7b82-49df-a6a2-030cf9bb95ce",
+    "active": true
+  },
+  {
+    "id": "62eb1fd1-cfd2-449f-ac89-6a8006c7addb",
+    "name": "Tribunal de Justiça Militar de São Paulo (TJMSP)",
+    "courtType": "5847bf7c-7b82-49df-a6a2-030cf9bb95ce",
+    "active": true
+  },
+  {
+    "id": "7b240347-5395-4280-bc1c-e0c860fbc843",
+    "name": "Tribunal de Justiça Militar do Rio Grande do Sul (TJMRS)",
+    "courtType": "5847bf7c-7b82-49df-a6a2-030cf9bb95ce",
+    "active": true
+  }
+]

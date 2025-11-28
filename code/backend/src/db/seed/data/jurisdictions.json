@@ -1,0 +1,27 @@
+[
+   {
+      "id":"0346d30e-5233-4f91-b8dc-cf17b45212a4",
+      "name":"Justiça Militar",
+      "active":true
+   },
+   {
+      "id":"46648d80-ff55-4952-aea2-8bc81aba8cf9",
+      "name":"Justiça do Trabalho",
+      "active":true
+   },
+   {
+      "id":"6244158d-2714-4eee-a41d-dccd903e1df9",
+      "name":"Justiça Eleitoral",
+      "active":true
+   },
+   {
+      "id":"802fc150-9fc9-48ef-86de-d2dd3e9784b3",
+      "name":"Justiça Estadual",
+      "active":true
+   },
+   {
+      "id":"91336835-d63b-43ed-affa-2b408fa21fd3",
+      "name":"Justiça Federal",
+      "active":true
+   }
+]

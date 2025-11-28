@@ -1,0 +1,32 @@
+[
+  {
+    "id": "589e5573-0b8a-4d63-b2e3-12d71cd1cf05",
+    "name": "Tribunais Superiores",
+    "active": true
+  },
+  {
+    "id": "d64d1369-aff5-45e5-9462-656bddfabe77",
+    "name": "Tribunais Regionais Federais",
+    "active": true
+  },
+  {
+    "id": "01b3e45e-e781-4400-b09e-f65b820d8a07",
+    "name": "Tribunais de Justiça",
+    "active": true
+  },
+  {
+    "id": "6e985db5-d547-4186-bb35-421a33d6a4d4",
+    "name": "Tribunais Regionais Eleitorais",
+    "active": true
+  },
+  {
+    "id": "7e751ddf-d768-4ced-98d8-04e5b4c99051",
+    "name": "Tribunais Regionais do Trabalho",
+    "active": true
+  },
+  {
+    "id": "5847bf7c-7b82-49df-a6a2-030cf9bb95ce",
+    "name": "Tribunais de Justiça Militar",
+    "active": true
+  }
+]
